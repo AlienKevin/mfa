@@ -1,0 +1,5 @@
+train_wavs/
+test_wavs/
+train_alignment/
+test_alignment/
+.DS_Store
