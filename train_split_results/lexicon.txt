@@ -1,0 +1,2128 @@
+{LG}	spn
+{SL}	sil
+一	j a1 t
+丁	d i1 ng
+七	c a1 t
+丈	z oe6 ng
+三	s aa1 m
+上	s oe5 ng
+上	s oe6 ng
+下	h aa5
+下	h aa6
+不	b a1 t
+丐	k o3 i
+且	c e2
+世	s a3 i
+並	b i6 ng
+中	z u1 ng
+中	z u3 ng
+串	c yu3 n
+主	z yu2
+乃	n aa5 i
+久	g a2 u
+之	z i1
+乎	f u4
+乏	f a6 t
+乖	gw aa1 i
+乙	j yu6 t
+乜	m a1 t
+九	g a2 u
+乞	h a1 t
+乸	n aa2
+乾	g o1 n
+亂	l yu6 n
+了	l i5 u
+事	s i6
+二	j i6
+互	w u6
+五	ng5
+井	z e2 ng
+亞	aa3
+亡	m o4 ng
+交	g aa1 u
+亦	j i6 k
+亨	h a1 ng
+享	h oe2 ng
+京	g i1 ng
+人	j a2 n
+人	j a4 n
+仆	p u1 k
+仇	s a4 u
+今	g a1 m
+介	g aa3 i
+仍	j i4 ng
+仔	z a2 i
+仔	z i2
+他	t aa1
+付	f u6
+代	d o6 i
+令	l i6 ng
+以	j i5
+仰	j oe5 ng
+仲	z u6 ng
+件	g i6 n
+任	j a6 m
+份	f a2 n
+份	f a6 n
+仿	f o2 ng
+企	k e5 i
+伊	j i1
+休	j a1 u
+伯	b aa3 k
+估	g u2
+伴	b u6 n
+伴	p u2 n
+似	c i5
+但	d aa6 n
+佈	b o3 u
+位	w a6 i
+低	d a1 i
+住	z yu6
+佔	z i3 m
+何	h o4
+余	j yu4
+佛	f a6 t
+作	z o3 k
+你	n e5 i
+佢	k eo5 i
+佬	l o2 u
+佳	g aa1 i
+併	p i3 ng
+使	s a2 i
+使	s i2
+使	s i3
+來	l o4 i
+例	l a6 i
+侗	t u4 ng
+供	g u1 ng
+供	g u3 ng
+依	j i1
+侶	l eo5 i
+便	b i6 n
+係	h a6 i
+促	c u1 k
+俄	ng o4
+俗	z u6 k
+保	b o2 u
+信	s eo3 n
+修	s a1 u
+俾	b e2 i
+倉	c o1 ng
+個	g o3
+倒	d o2 u
+倒	d o3 u
+候	h a6 u
+借	z e3
+值	z i6 k
+假	g aa2
+假	g aa3
+偈	g a2 i
+偉	w a5 i
+偏	p i1 n
+做	z o6 u
+停	t i4 ng
+健	g i6 n
+偶	ng a5 u
+偷	t a1 u
+偽	ng a6 i
+傑	g i6 t
+備	b e6 i
+傭	j u4 ng
+傲	ng o6 u
+傳	c yu4 n
+傳	z yu6 n
+傷	s oe1 ng
+傻	s o4
+傾	k i1 ng
+僅	g a2 n
+僆	l e1 ng
+僆	l i5 n
+像	z oe6 ng
+僧	z a1 ng
+價	g aa3
+僻	p i1 k
+億	j i1 k
+儒	j yu4
+儘	z eo2 n
+儘	z eo6 n
+償	s oe4 ng
+優	j a1 u
+儲	c yu5
+允	w a5 n
+元	j yu4 n
+兄	h i1 ng
+充	c u1 ng
+兆	s i6 u
+先	s i1 n
+光	gw o1 ng
+免	m i5 n
+兒	j i4
+入	j a6 p
+內	n o6 i
+全	c yu4 n
+兩	l oe5 ng
+八	b aa3 t
+公	g u1 ng
+六	l u6 k
+兵	b i1 ng
+其	k e4 i
+具	g eo6 i
+典	d i2 n
+冇	m o5 u
+冊	c aa3 k
+再	z o3 i
+冒	m o6 u
+冬	d u1 ng
+冰	b i1 ng
+冷	l aa5 ng
+准	z eo2 n
+凌	l i4 ng
+凍	d u3 ng
+凡	f aa4 n
+出	c eo1 t
+刀	d o1 u
+分	f a1 n
+分	f a6 n
+切	c a3 i
+切	c i3 t
+刑	j i4 ng
+列	l i6 t
+初	c o1
+判	p u3 n
+別	b i6 t
+利	l e6 i
+刪	s aa1 n
+刮	gw aa3 t
+到	d o2 u
+到	d o3 u
+制	z a3 i
+刷	c aa3 t
+券	g yu3 n
+券	h yu3 n
+刺	c i3
+刻	h a1 k
+則	z a1 k
+前	c i4 n
+剩	s i6 ng
+剩	z i6 ng
+剪	z i2 n
+副	f u3
+割	g o3 t
+創	c o3 ng
+劃	w aa6 k
+劇	k e6 k
+劈	p e3 k
+劉	l a4 u
+劑	z a1 i
+力	l i6 k
+功	g u1 ng
+加	g aa1
+助	z o6
+努	n o5 u
+勁	g i3 ng
+勁	g i6 ng
+勉	m i5 n
+動	d u6 ng
+務	m o6 u
+勝	s i1 ng
+勝	s i3 ng
+勞	l o4 u
+勢	s a3 i
+勵	l a6 i
+勿	m a6 t
+包	b aa1 u
+化	f aa3
+北	b a1 k
+匙	s i4
+匠	z oe6 ng
+匪	f e2 i
+匯	w u6 i
+匿	n i1 k
+區	k eo1 i
+十	s a6 p
+千	c i1 n
+升	s i1 ng
+半	b u3 n
+卓	c oe3 k
+南	n aa4 m
+博	b o3 k
+卜	b u1 k
+占	z i1 m
+卡	k aa1
+卡	k aa1 t
+印	j a3 n
+危	ng a4 i
+即	z i1 k
+卷	g yu2 n
+卽	z i1 k
+厘	l e4 i
+原	j yu4 n
+厭	j i3 m
+去	h eo3 i
+參	c aa1 m
+又	j a6 u
+叉	c aa1
+及	k a6 p
+友	j a2 u
+友	j a5 u
+反	f aa2 n
+取	c eo2 i
+受	s a6 u
+叛	b u6 n
+口	h a2 u
+古	g u2
+句	g eo3 i
+另	l i6 ng
+只	z i2
+叫	g i3 u
+叮	d i1 ng
+可	h o2
+台	t o4 i
+史	s i2
+右	j a6 u
+司	s i1
+叻	l e1 k
+吃	h e3 k
+各	g o3 k
+合	h a6 p
+吉	g a1 t
+同	t u4 ng
+名	m i4 ng
+向	h oe3 ng
+吓	h aa2
+吖	aa1
+君	gw a1 n
+吟	j a4 m
+否	f a2 u
+含	h a4 m
+吳	ng4
+吵	c aa2 u
+吸	k a1 p
+吹	c eo1 i
+呀	aa4
+呆	ng o4 i
+告	g o3 u
+呢	n e1
+呢	n e1 i
+呢	n i1
+周	z a1 u
+味	m e6 i
+呻	s a1 n
+呻	s a3 n
+呼	f u1
+命	m e6 ng
+命	m i6 ng
+咁	g a3 m
+咋	z aa3
+和	w o4
+和	w o6
+咓	aa5
+咓	ng aa5
+咖	g aa3
+咖	k aa1
+咗	z o2
+咦	j i2
+咧	l e4
+咧	l i6 t
+咩	m e1
+咪	m a1 i
+咪	m a5 i
+咪	m a6 i
+咬	ng aa5 u
+咳	k a1 t
+品	b a2 n
+哄	h u3 ng
+哈	h aa1
+哋	d e6 i
+哎	aa1 i
+員	j yu4 n
+哥	g o1
+哦	o2
+哦	o4
+哩	l e5
+哩	l e5 i
+哲	z i3 t
+唉	aa1 i
+唐	t o4 ng
+唔	m4
+唞	t a2 u
+唧	z e1 k
+唯	w a4 i
+唱	c oe3 ng
+商	s oe1 ng
+啊	aa3
+啊	o3
+問	m a6 n
+啓	k a2 i
+啖	d aa6 m
+啟	k a2 i
+啡	f e1
+啦	l aa1
+啩	gw aa3
+啫	z e1
+啱	ng aa1 m
+啲	d i1
+喂	w a3 i
+喃	n aa4 m
+善	s i6 n
+喇	l aa3
+喉	h a4 u
+喊	h aa3 m
+喎	w o3
+喎	w o5
+喐	j u1 k
+喜	h e2 i
+單	d aa1 n
+喺	h a2 i
+喻	j yu6
+嗌	aa3 i
+嗟	z e1
+嗦	s o1
+嗬	h o2
+嗬	h o4
+嗯	ng6
+嗰	g o2
+嗱	n aa4
+嘅	g e3
+嘆	t aa3 n
+嘈	c o4 u
+嘎	g a4
+嘎	g aa4
+嘔	a2 u
+嘗	s oe4 ng
+嘛	m aa3
+嘛	m aa5
+嘞	l a3
+嘞	l aa3 k
+嘞	l a3 k
+嘢	j e5
+嘥	s aa1 i
+嘩	w aa1
+嘲	z aa1 u
+噃	b o3
+噉	g a2 m
+噏	ng a1 p
+器	h e3 i
+噬	s a6 i
+噹	d o1 ng
+嚇	h aa3 k
+嚟	l a4 i
+嚟	l e4 i
+嚴	j i4 m
+嚼	z oe3 k
+嚿	g a6 u
+囉	l o1
+囉	l o3
+四	s e3 i
+回	w u4 i
+因	j a1 n
+困	kw a3 n
+固	g u3
+圈	h yu1 n
+國	gw o3 k
+圍	w a4 i
+圓	j yu4 n
+圖	t o4 u
+團	t yu4 n
+土	t o2 u
+在	z o6 i
+地	d e6 i
+圳	z a3 n
+圾	s aa3 p
+址	z i2
+坐	c o5
+坐	z o6
+坑	h aa1 ng
+坡	b o1
+坪	p i4 ng
+垃	l aa6 p
+型	j i4 ng
+埃	o1 i
+埋	m aa4 i
+城	s i4 ng
+埔	b o3 u
+埗	b o6 u
+執	z a1 p
+培	p u4 i
+基	g e1 i
+堂	t o4 ng
+堅	g i1 n
+堆	d eo1 i
+堡	b o2 u
+報	b o3 u
+場	c oe4 ng
+塊	f aa3 i
+塞	c o3 i
+塞	s a1 k
+填	t i4 n
+塵	c a4 n
+境	g i2 ng
+增	z a1 ng
+墨	m a6 k
+墮	d o6
+墳	f a4 n
+墻	c oe4 ng
+壇	t aa4 n
+壓	aa3 t
+壞	w aa6 i
+士	s i6
+壯	z o3 ng
+壽	s a6 u
+夏	h aa6
+外	ng o6 i
+多	d o1
+夜	j e6
+夠	g a3 u
+夢	m u6 ng
+大	d aa6 i
+天	t i1 n
+太	t aa3 i
+夫	f u1
+失	s a1 t
+夷	j i4
+夾	g aa3 p
+夾	g e3 p
+夾	g e6 p
+奇	k e4 i
+奏	z a3 u
+套	t o3 u
+奪	d yu6 t
+奮	f a5 n
+女	n eo2 i
+女	n eo5 i
+奶	n aa5 i
+好	h o2 u
+好	h o3 u
+如	j yu4
+妙	m i6 u
+妝	z o1 ng
+妥	t o5
+妳	n e5 i
+妹	m u1 i
+妹	m u2 i
+妹	m u6 i
+始	c i2
+姐	z e2
+姓	s i3 ng
+委	w a2 i
+姦	g aa1 n
+姨	j i1
+姨	j i4
+姻	j a1 n
+威	w a1 i
+娛	j yu4
+婆	p o4
+婚	f a1 n
+婦	f u5
+媒	m u4 i
+媳	s i1 k
+媽	m aa1
+嫌	j i4 m
+嫩	n yu6 n
+嫲	m aa4
+嬲	n a1 u
+嬲	n i4 u
+嬲	n i5 u
+子	z i2
+孖	m aa1
+字	z i6
+存	c yu4 n
+季	gw a3 i
+孤	g u1
+孩	h aa4 i
+孭	m e1
+學	h o6 k
+孻	l aa1 i
+它	t aa1
+宅	z aa2 k
+宅	z aa6 k
+守	s a2 u
+安	o1 n
+完	j yu4 n
+宗	z u1 ng
+官	g u1 n
+定	d i6 ng
+客	h aa3 k
+宣	s yu1 n
+室	s a1 t
+宮	g u1 ng
+害	h o6 i
+宵	s i1 u
+家	g aa1
+容	j u4 ng
+密	m a6 t
+寇	k a3 u
+富	f u3
+寒	h o4 n
+寢	c a2 m
+實	s a6 t
+寧	n i4 ng
+審	s a2 m
+寫	s e2
+寵	c u2 ng
+寶	b o2 u
+封	f u1 ng
+射	s e6
+將	z oe1 ng
+將	z oe3 ng
+專	z yu1 n
+尊	z yu1 n
+尋	c a4 m
+對	d eo3 i
+導	d o6 u
+小	s i2 u
+少	s i2 u
+少	s i3 u
+尖	z i1 m
+尤	j a4 u
+就	z a6 u
+尺	c e3 k
+尼	n e4 i
+尾	m e5 i
+局	g u6 k
+居	g eo1 i
+屈	w a1 t
+屋	u1 k
+屌	d i2 u
+屍	s i1
+屎	s i2
+屏	p i4 ng
+屑	s i3 t
+展	z i2 n
+屙	o1
+層	c a4 ng
+屬	s u6 k
+屯	t yu4 n
+山	s aa1 n
+岳	ng o6 k
+島	d o2 u
+崇	s u4 ng
+嶺	l i5 ng
+川	c yu1 n
+州	z a1 u
+工	g u1 ng
+左	z o2
+巧	h aa2 u
+巨	g eo6 i
+差	c aa1
+差	c aa1 i
+己	g e2 i
+已	j i5
+巴	b aa1
+巾	g a1 n
+巿	f a1 t
+市	s i5
+布	b o3 u
+希	h e1 i
+帝	d a3 i
+師	s i1
+帳	z oe3 ng
+帶	d aa2 i
+帶	d aa3 i
+常	s oe4 ng
+幅	f u1 k
+幕	m o6 k
+幣	b a6 i
+幫	b o1 ng
+干	g o1 n
+平	p e4 ng
+平	p i4 ng
+年	n i4 n
+幸	h a6 ng
+幼	j a3 u
+幾	g e2 i
+床	c o4 ng
+序	z eo6 i
+底	d a2 i
+店	d i3 m
+府	f u2
+度	d o6 k
+度	d o6 u
+座	z o2
+座	z o6
+庫	f u3
+庭	t i4 ng
+康	h o1 ng
+廁	c i3
+廉	l i4 m
+廠	c o2 ng
+廢	f a3 i
+廣	gw o2 ng
+廳	t e1 ng
+建	g i3 n
+廿	j aa6
+廿	j e6
+式	s i1 k
+弓	g u1 ng
+引	j a5 n
+弟	d a6 i
+弱	j oe6 k
+張	z oe1 ng
+強	k oe4 ng
+強	k oe5 ng
+彈	d aa2 n
+彈	d aa6 n
+彈	t aa4 n
+彙	w a6 i
+彙	w u6 i
+形	j i4 ng
+彩	c o2 i
+影	j i2 ng
+彼	b e2 i
+往	w o5 ng
+待	d o6 i
+很	h a2 n
+律	l eo6 t
+後	h a6 u
+得	d a1 k
+從	c u4 ng
+復	f u6 k
+微	m e4 i
+德	d a1 k
+心	s a1 m
+必	b i1 t
+忌	g e6 i
+忍	j a2 n
+志	z i3
+忘	m o4 ng
+忙	m o4 ng
+忠	z u1 ng
+快	f aa3 i
+念	n i6 m
+忽	f a1 t
+怕	p aa3
+怖	b o3 u
+思	s i1
+怡	j i4
+急	g a1 p
+性	s i3 ng
+怨	j yu3 n
+怪	gw aa3 i
+恐	h u2 ng
+恢	f u1 i
+恨	h a6 n
+息	s i1 k
+悉	s i1 k
+悔	f u3 i
+悚	s u2 ng
+悟	ng6
+患	w aa6 n
+悲	b e1 i
+悶	m u6 n
+情	c i4 ng
+惑	w aa6 k
+惜	s i1 k
+惟	w a4 i
+惠	w a6 i
+惡	o3 k
+惡	w u3
+想	s oe2 ng
+愈	j yu6
+意	j i3
+愚	j yu4
+愛	o3 i
+感	g a2 m
+慈	c i4
+態	t aa3 i
+慕	m o6 u
+慘	c aa2 m
+慢	m aa6 n
+慣	gw aa3 n
+慮	l eo6 i
+慶	h i3 ng
+憂	j a1 u
+憎	z a1 ng
+憐	l i4 n
+憶	j i1 k
+懇	h a2 n
+應	j i1 ng
+應	j i3 ng
+懲	c i4 ng
+懶	l aa5 n
+懷	w aa4 i
+懸	j yu4 n
+懼	g eo6 i
+戀	l yu2 n
+戇	ng o6 ng
+戇	z o3 ng
+成	s i4 ng
+我	ng o5
+或	w aa6 k
+戚	c i1 k
+戥	d a6 ng
+截	z i6 t
+戯	f u1
+戯	h e3 i
+戰	z i3 n
+戲	h e3 i
+戴	d aa3 i
+戶	w u6
+房	f o2 ng
+房	f o4 ng
+所	s o2
+手	s a2 u
+扎	z aa3 t
+打	d aa1
+打	d aa2
+扭	n a2 u
+扮	b aa6 n
+扯	c e2
+批	p a1 i
+找	z aa2 u
+承	s i4 ng
+技	g e6 i
+抄	c aa1 u
+把	b aa2
+抑	j i1 k
+投	t a4 u
+抗	k o3 ng
+折	z i3 t
+抬	t o4 i
+抱	p o5 u
+抵	d a2 i
+抹	m aa3 t
+押	aa3 t
+抽	c a1 u
+拆	c aa3 k
+拉	l aa1 i
+拋	p aa1 u
+拍	p aa3 k
+拎	l i1 ng
+拏	n aa4
+拒	k eo5 i
+拔	b a6 t
+拖	t o1
+拗	aa3 u
+拘	k eo1 i
+招	z i1 u
+拜	b aa3 i
+括	gw aa3 t
+括	k u3 t
+拯	c i2 ng
+拳	k yu4 n
+拼	p i3 ng
+持	c i4
+指	z i2
+按	o3 n
+挑	t i1 u
+捉	z u1 k
+捍	h o2 n
+捍	h o5 n
+捐	g yu1 n
+捧	b u2 ng
+捧	p u2 ng
+捱	ng aa4 i
+捽	c yu3 t
+捽	z eo1 t
+捽	z yu3 t
+捽	z yu6 t
+掂	d i3 m
+掂	d i6 m
+掃	s o3 u
+授	s a6 u
+掉	d i6 u
+掌	z oe2 ng
+排	p aa4 i
+掘	gw a6 t
+掙	z a1 ng
+掛	gw aa3
+掠	l oe6 k
+採	c o2 i
+探	t aa3 m
+掣	z a3 i
+接	z i3 p
+控	h u3 ng
+推	t eo1 i
+掩	j i2 m
+措	c o3 u
+揀	g aa2 n
+揈	f a3 ng
+揈	f a4 ng
+揈	f i6 ng
+揈	gw a1 ng
+描	m i4 u
+提	t a4 i
+插	c aa3 p
+換	w u6 n
+揦	l aa2
+揦	l aa5
+揪	z a1 u
+揭	k i3 t
+揮	f a1 i
+援	w u4 n
+揸	z aa1
+揼	d a1 m
+揼	d a2 m
+揼	d a3 m
+揼	d a6 p
+揾	w a3 n
+搇	k a2 m
+搜	s a2 u
+搞	g aa2 u
+搬	b u1 n
+搭	d aa3 p
+搵	w a2 n
+搶	c oe2 ng
+摀	ng6
+摀	w u2
+摑	gw aa3 k
+摑	gw o3 k
+摯	z i3
+撈	l aa1 u
+撈	l aa4 u
+撈	l o1 u
+撐	c aa1 ng
+撐	c aa3 ng
+撚	l a2 n
+撚	n a2 n
+撞	z o6 ng
+撤	c i3 t
+撥	b u6 t
+播	b o3
+撳	g a6 m
+擇	z aa6 k
+擊	g i1 k
+擋	d o2 ng
+操	c o1 u
+擔	d aa1 m
+擔	d aa3 m
+據	g eo3 i
+擦	c aa3 t
+擬	j i4
+擬	j i5
+擴	kw o3 ng
+擺	b aa2 i
+攀	p aa1 n
+攞	l o2
+攤	t aa1 n
+攪	g aa2 u
+攬	l aa2 m
+支	z i1
+攰	g u6 i
+收	s a1 u
+改	g o2 i
+攻	g u1 ng
+放	f o3 ng
+政	z i3 ng
+故	g u3
+效	h aa6 u
+敏	m a5 n
+救	g a3 u
+敗	b aa6 i
+教	g aa3 u
+敢	g a2 m
+散	s aa2 n
+散	s aa3 n
+敦	d eo1 n
+敬	g i3 ng
+敲	h aa1 u
+整	z i2 ng
+敵	d i6 k
+數	s o2 u
+數	s o3 u
+斂	l i5 m
+文	m a2 n
+文	m a4 n
+料	l i2 u
+料	l i6 u
+斜	c e3
+斜	c e4
+斤	g a1 n
+斬	z aa2 m
+新	s a1 n
+斷	d yu3 n
+斷	d yu6 n
+斷	t yu5 n
+方	f o1 ng
+於	j yu1
+施	s i1
+旁	p o4 ng
+旅	l eo5 i
+族	z u6 k
+旗	k e4 i
+既	g e3 i
+日	j a6 t
+旦	d aa3 n
+旨	z i2
+早	z o2 u
+明	m i4 ng
+易	j i6
+易	j i6 k
+星	s i1 ng
+春	c eo1 n
+昧	m u6 i
+是	s i6
+時	s i4
+晏	aa3 n
+晒	s aa3 i
+晚	m aa5 n
+晝	z a3 u
+晨	s a4 n
+普	p o2 u
+景	g i2 ng
+晰	s i1 k
+智	z i3
+暈	w a4 n
+暖	n yu5 n
+暪	m u5 n
+暫	z aa6 m
+暴	b o6 u
+曇	t aa4 m
+曬	s aa3 i
+曲	k u1 k
+更	g aa1 ng
+更	g a1 ng
+更	g a3 ng
+書	s yu1
+曹	c o4 u
+曼	m aa6 n
+曾	c a4 ng
+曾	z a1 ng
+替	t a3 i
+最	z eo3 i
+會	w u5 i
+會	w u6 i
+月	j yu6 t
+有	j a5 u
+朋	p a4 ng
+服	f u6 k
+朕	z a6 m
+朗	l o5 ng
+望	m o6 ng
+朝	c i4 u
+朝	z i1 u
+期	k e4 i
+未	m e6 i
+末	m u6 t
+本	b u2 n
+材	c o4 i
+村	c yu1 n
+杞	g e2 i
+杯	b u1 i
+東	d u1 ng
+板	b aa2 n
+析	s i1 k
+林	l a4 m
+果	gw o2
+枝	z i1
+枱	t o2 i
+架	g aa3
+柏	p aa3 k
+某	m a5 u
+柑	g a1 m
+染	j i5 m
+查	c aa4
+柱	c yu5
+柳	l a5 u
+査	c aa4
+査	z aa1
+校	h aa6 u
+核	h a6 t
+核	w a6 t
+根	g a1 n
+格	g aa3 k
+框	kw aa1 ng
+案	o3 n
+桔	g a1 t
+梅	m u2 i
+梅	m u4 i
+梗	g a2 ng
+條	t i4 u
+械	h aa6 i
+梳	s o1
+棄	h e3 i
+棍	gw a3 n
+棘	g i1 k
+棟	d u6 ng
+棱	l i4 ng
+棺	g u1 n
+椒	z i1 u
+椰	j e4
+楚	c o2
+業	j i6 p
+極	g i6 k
+概	k o3 i
+榮	w i4 ng
+構	g a3 u
+構	k a3 u
+樂	l o6 k
+樂	ng o6 k
+樓	l a2 u
+樓	l a4 u
+樖	p o1
+標	b i1 u
+模	m o2 u
+模	m o4 u
+樣	j oe2 ng
+樣	j oe6 ng
+樹	s yu6
+機	g e1 i
+橫	w aa4 ng
+檔	d o2 ng
+檔	d o3 ng
+檢	g i2 m
+櫃	gw a6 i
+權	k yu4 n
+次	c i3
+欺	h e1 i
+款	f u2 n
+歉	h i3 p
+歌	g o1
+歎	t aa3 n
+歐	a1 u
+歡	f u1 n
+止	z i2
+正	z e3 ng
+正	z i3 ng
+此	c i2
+步	b o6 u
+歧	k e4 i
+歪	m e2
+歪	w aa1 i
+歲	s eo3 i
+歷	l i6 k
+歸	gw a1 i
+死	s e2 i
+殊	s yu4
+殖	z i6 k
+殘	c aa4 n
+段	d yu6 n
+殺	s aa3 t
+殼	h o3 k
+毋	m o4 u
+母	m o5 u
+每	m u5 i
+毒	d u6 k
+比	b e2 i
+毛	m o4 u
+氏	s i6
+民	m a4 n
+氣	h e3 i
+水	s eo2 i
+永	w i5 ng
+汁	z a1 p
+求	k a4 u
+汕	s aa3 n
+汗	h o6 n
+江	g o1 ng
+決	k yu3 t
+沉	c a4 m
+沒	m u6 t
+沓	d aa6 p
+沖	c u1 ng
+沙	s aa1
+沫	m u3 t
+沫	m u6 t
+河	h o4
+油	j a4 u
+況	f o3 ng
+法	f aa3 t
+泛	f aa3 n
+泛	f aa6 n
+泡	p aa1 u
+泡	p aa3 u
+泡	p o5 u
+波	b o1
+泥	n a4 i
+注	z yu3
+泰	t aa3 i
+洗	s a2 i
+洩	s i3 t
+洪	h u4 ng
+洲	z a1 u
+活	w u6 t
+派	p aa3 i
+流	l a4 u
+浪	l o6 ng
+海	h o2 i
+浸	z a3 m
+消	s i1 u
+涉	s i3 p
+液	j i6 k
+涵	h aa4 m
+涼	l oe4 ng
+淡	d aa6 m
+淡	t aa5 m
+淨	z i6 ng
+淩	l i4 ng
+深	s a1 m
+混	w a6 n
+添	t i1 m
+清	c i1 ng
+減	g aa2 m
+渠	k eo4 i
+渣	z aa1
+測	c aa1 k
+港	g o2 ng
+游	j a4 u
+渺	m i5 u
+湖	w u4
+湯	t o1 ng
+源	j yu4 n
+準	z eo2 n
+溜	l a4 u
+溜	l a6 u
+溝	k a1 u
+溫	w a1 n
+溶	j u4 ng
+滅	m i6 t
+滘	g aa3 u
+滯	z a6 i
+滸	w u2
+滿	m u5 n
+漁	j yu4
+演	j i2 n
+漢	h o3 n
+漫	m aa6 n
+漲	z oe3 ng
+潔	g i3 t
+潮	c i4 u
+澳	o3 u
+激	g i1 k
+濃	n u4 ng
+濕	s a1 p
+濟	z a3 i
+瀏	l a4 u
+瀨	l aa6 i
+灣	w aa1 n
+火	f o2
+灰	f u1 i
+災	z o1 i
+炒	c aa2 u
+炮	p aa3 u
+為	w a4 i
+為	w a6 i
+烏	w u1
+烤	h aa1 u
+無	m o4 u
+焦	z i1 u
+然	j i4 n
+煙	j i1 n
+煤	m u4 i
+照	z i3 u
+煩	f aa4 n
+煮	z yu2
+煲	b o1 u
+熒	j i4 ng
+熟	s u6 k
+熱	j i6 t
+燈	d a1 ng
+燒	s i1 u
+營	j i4 ng
+燥	c o3 u
+燭	z u1 k
+燴	w u6 i
+爆	b aa3 u
+爐	l o4 u
+爛	l aa6 n
+爭	z aa1 ng
+爭	z a1 ng
+爲	w a4 i
+爲	w a6 i
+父	f u6
+爸	b aa1
+爽	s o2 ng
+爾	j i5
+牀	c o4 ng
+牆	c oe4 ng
+片	p i2 n
+片	p i3 n
+版	b aa2 n
+牌	p aa4 i
+牙	ng aa4
+牛	ng a4 u
+物	m a6 t
+特	d a6 k
+牽	h i1 n
+犀	s a1 i
+犢	d u6 k
+犯	f aa6 n
+狀	z o6 ng
+狂	kw o4 ng
+狗	g a2 u
+狼	l o4 ng
+猛	m aa5 ng
+猶	j a4 u
+獄	j u6 k
+獎	z oe2 ng
+獨	d u6 k
+獲	w o6 k
+獸	s a3 u
+獻	h i3 n
+玄	j yu4 n
+率	l eo2 t
+率	s eo1 t
+玉	j u6 k
+王	w o4 ng
+玩	w aa2 n
+玩	w u6 n
+玫	m u4 i
+玻	b o1
+珍	z a1 n
+珠	z yu1
+班	b aa1 n
+現	j i6 n
+球	k a4 u
+理	l e5 i
+琴	k a4 m
+琵	p e4 i
+琶	p aa4
+瑛	j i1 ng
+瑩	j i4 ng
+瑰	gw a3 i
+璃	l e4 i
+環	w aa4 n
+瓜	gw aa1
+瓣	f aa6 n
+甚	s a6 m
+甜	t i4 m
+生	s aa1 ng
+生	s a1 ng
+產	c aa2 n
+用	j u6 ng
+甩	l a1 t
+由	j a4 u
+甲	g aa3 p
+申	s a1 n
+男	n aa4 m
+畀	b e2 i
+界	g aa3 i
+留	l a4 u
+畢	b a1 t
+略	l oe6 k
+番	f aa1 n
+畫	w aa2
+畫	w aa6 k
+異	j i6
+當	d o1 ng
+當	d o3 ng
+疊	d aa6 p
+疊	d i6 p
+疑	j i4
+疫	j i6 k
+病	b e6 ng
+症	z i1 ng
+症	z i3 ng
+痕	h a4 n
+痛	t u3 ng
+瘁	s eo6 i
+瘋	f u1 ng
+瘦	s a3 u
+療	l i4 u
+癌	ng aa4 m
+癡	c i1
+癮	j a5 n
+癱	t aa1 n
+癲	d i1 n
+登	d a1 ng
+發	f aa3 t
+白	b aa6 k
+百	b aa3 k
+皆	g aa1 i
+皇	w o4 ng
+皮	p e2 i
+皮	p e4 i
+皺	z a3 u
+盃	b u1 i
+益	j i1 k
+盛	s i6 ng
+盞	z aa2 n
+盡	z eo6 n
+監	g aa1 m
+監	g aa3 m
+盤	p u4 n
+目	m u6 k
+直	z i6 k
+相	s oe1 ng
+相	s oe2 ng
+相	s oe3 ng
+盾	t eo5 n
+省	s aa2 ng
+省	s i2 ng
+眉	m e4 i
+看	h o1 n
+看	h o3 n
+真	z a1 n
+眠	m i4 n
+眼	ng aa5 n
+眾	z u3 ng
+着	z oe3 k
+着	z oe6 k
+睇	t a2 i
+睡	s eo6 i
+督	d u1 k
+睬	c o2 i
+瞄	m i4 u
+瞌	h a1 p
+瞓	f a3 n
+矇	m u4 ng
+矛	m aa4 u
+矜	g i1 ng
+知	z i1
+知	z i3
+矩	g eo2 i
+短	d yu2 n
+石	s e6 k
+砌	c a3 i
+研	j i4 n
+破	p o3
+硬	ng aa6 ng
+碌	l u1 k
+碎	s eo3 i
+碗	w u2 n
+確	k o3 k
+碼	m aa5
+磨	m o4
+礎	c o2
+示	s i6
+社	s e5
+祁	k e4 i
+祈	k e4 i
+祕	b e3 i
+祖	z o2 u
+祝	z u1 k
+神	s a4 n
+票	p i3 u
+祭	z a3 i
+禁	g a3 m
+福	f u1 k
+禮	l a5 i
+禱	t o2 u
+禺	j yu4
+私	s i1
+秋	c a1 u
+科	f o1
+秒	m i5 u
+秘	b e3 i
+租	z o1 u
+秦	c eo4 n
+移	j i4
+稅	s eo3 i
+程	c i4 ng
+稚	z i6
+種	z u2 ng
+種	z u3 ng
+稱	c i1 ng
+稱	c i3 ng
+穌	s o1 u
+積	z i1 k
+穩	w a2 n
+究	g a3 u
+空	h u1 ng
+穿	c yu1 n
+突	d a6 t
+窒	z a6 t
+窗	c oe1 ng
+窮	k u4 ng
+窿	l u1 ng
+竊	s i3 t
+立	l aa6 p
+站	z aa6 m
+竟	g i2 ng
+章	z oe1 ng
+童	t u4 ng
+竺	z u1 k
+笈	k a1 p
+笑	s i3 u
+笛	d e2 k
+笠	l a1 p
+笨	b a6 n
+第	d a6 i
+筆	b a1 t
+等	d a2 ng
+筋	g a1 n
+筍	s eo2 n
+筒	t u2 ng
+答	d aa3 p
+策	c aa3 k
+筷	f aa3 i
+箇	g o3
+算	s yu3 n
+管	g u2 n
+箭	z i3 n
+節	z i3 t
+範	f aa6 n
+篇	p i1 n
+篡	s aa3 n
+篤	d u1 k
+簡	g aa2 n
+簽	c i1 m
+簾	l i2 m
+簿	b o2 u
+籍	z i6 k
+籠	l u4 ng
+籠	l u5 ng
+籽	z i2
+粉	f a2 n
+粒	l a1 p
+粥	z u1 k
+粵	j yu6 t
+粹	s eo6 i
+精	z e1 ng
+精	z i1 ng
+糊	w u4
+糖	t o2 ng
+糖	t o4 ng
+系	h a6 i
+糾	g a2 u
+紀	g e2 i
+紅	h u4 ng
+納	n aa6 p
+紐	n a2 u
+純	s eo4 n
+紗	s aa1
+紙	z i2
+級	k a1 p
+素	s o3 u
+紡	f o2 ng
+累	l eo6 i
+細	s a3 i
+紹	s i6 u
+終	z u1 ng
+組	z o2 u
+結	g i3 t
+絕	z yu6 t
+絡	l o3 k
+絮	s eo5 i
+統	t u2 ng
+綁	b o2 ng
+經	g i1 ng
+綠	l u6 k
+維	w a4 i
+綯	t o4 u
+網	m o5 ng
+緊	g a2 n
+緒	s eo5 i
+線	s i3 n
+編	p i1 n
+練	l i6 n
+縮	s u1 k
+總	z u2 ng
+績	z i1 k
+繁	f aa4 n
+織	z i1 k
+繙	f aa1 n
+繙	f aa4 n
+繫	h a6 i
+繳	g i2 u
+繼	g a3 i
+續	z u6 k
+纏	c i4 n
+缺	k yu3 t
+罩	z aa3 u
+罪	z eo6 i
+置	z i3
+罰	f a6 t
+署	c yu5
+羅	l o4
+羊	j oe4 ng
+美	m e5 i
+羣	kw a4 n
+群	kw a4 n
+羨	s i6 n
+義	j i6
+習	z aa6 p
+翹	k i4 u
+翻	f aa1 n
+翼	j i6 k
+老	l o5 u
+考	h aa2 u
+者	z e2
+而	j i4
+耍	s aa2
+耐	n o6 i
+耳	j i5
+耶	j e4
+聊	l i4 u
+聖	s i3 ng
+聚	z eo6 i
+聞	m a4 n
+聯	l yu4 n
+聰	c u1 ng
+聲	s e1 ng
+聲	s i1 ng
+聼	t e1 ng
+聼	t i1 ng
+聼	t i3 ng
+聽	t e1 ng
+聽	t i3 ng
+肆	s e3 i
+肆	s i3
+肉	j u6 k
+肌	g e1 i
+肖	c i3 u
+肚	t o5 u
+肝	g o1 n
+股	g u2
+肥	f e4 i
+肯	h a2 ng
+育	j u6 k
+肺	f a3 i
+胃	w a6 i
+背	b u3 i
+背	b u6 i
+胎	t o1 i
+胡	w u4
+能	n a4 ng
+腍	j a6 m
+腍	n a4 m
+腍	n a5 m
+腎	s a6 n
+腦	n o5 u
+腰	j i1 u
+腳	g oe3 k
+腹	f u1 k
+膜	m o2 k
+膝	s a1 t
+膠	g aa1 u
+膽	d aa2 m
+臣	s a4 n
+臨	l a4 m
+自	z i6
+臭	c a3 u
+至	z i3
+致	z i3
+與	j yu5
+興	h i1 ng
+興	h i3 ng
+舉	g eo2 i
+舊	g a6 u
+舌	s i3 t
+舍	s e3
+舐	l aa2 i
+舒	s yu1
+舞	m o5 u
+般	b u1 n
+船	s yu4 n
+艇	t e5 ng
+艦	l aa6 m
+艱	g aa1 n
+色	s i1 k
+芒	m o1 ng
+芒	m o4 ng
+芝	z i1
+芬	f a1 n
+花	f aa1
+若	j oe6 k
+苦	f u2
+英	j i1 ng
+茂	m a6 u
+茶	c aa4
+草	c o2 u
+荊	g i1 ng
+荒	f o1 ng
+荔	l a6 i
+荷	h o4
+荷	h o6
+莊	z o1 ng
+莞	g u2 n
+莫	m o6 k
+菜	c o3 i
+菠	b o1
+華	w aa4
+萬	m aa6 n
+落	l o6 k
+著	z oe3 k
+著	z oe6 k
+著	z yu3
+葬	z o3 ng
+蒙	m u4 ng
+蒸	z i1 ng
+蓆	z i6 k
+蓋	g o3 i
+蓋	k o3 i
+蔬	s o1
+蔻	k a3 u
+薑	g oe1 ng
+薪	s a1 n
+薯	s yu4
+藍	l aa4 m
+藏	c o4 ng
+藏	z o6 ng
+藥	j oe6 k
+藩	f aa4 n
+蘋	p i4 ng
+蘭	l aa4 n
+蘿	l o4
+虎	f u2
+處	c yu3
+處	c yu5
+虛	h eo1 i
+號	h o6 u
+虧	kw a1 i
+蚊	m a1 n
+蛇	s e4
+蛋	d aa2 n
+蛋	d aa6 n
+蛤	g a3 p
+蜂	f u1 ng
+蜥	s i1 k
+蜴	j i6 k
+蝦	h aa1
+融	j u4 ng
+蟬	s i4 m
+蠟	l aa6 p
+蠢	c eo2 n
+蠱	g u2
+蠻	m aa4 n
+血	h yu3 t
+衆	z u3 ng
+行	h aa4 ng
+行	h a4 ng
+行	h a6 ng
+行	h o4 ng
+術	s eo6 t
+街	g aa1 i
+衛	w a6 i
+衣	j i1
+表	b i2 u
+衫	s aa1 m
+衰	s eo1 i
+衹	k e4 i
+衹	z i2
+袁	j yu4 n
+袋	d o6 i
+被	b e6 i
+被	p e5 i
+裁	c o4 i
+裂	l i6 t
+裏	l eo5 i
+裔	j eo6 i
+補	b o2 u
+裝	z o1 ng
+裡	l eo5 i
+製	z a3 i
+複	f u1 k
+褦	l e5
+褦	n aa6 i
+褦	n a3 ng
+褦	n o6 i
+褲	f u3
+襪	m a6 t
+襯	c a3 n
+襲	z aa6 p
+西	s a1 i
+要	j i3 u
+覆	f u1 k
+見	g i3 n
+規	kw a1 i
+視	s i6
+親	c a1 n
+覺	g aa3 u
+覺	g o3 k
+覽	l aa5 m
+觀	g u1 n
+角	g o2 k
+角	g o3 k
+解	g aa2 i
+觸	z u1 k
+言	j i4 n
+訂	d e6 ng
+訂	d i3 ng
+訂	d i6 ng
+計	g a2 i
+計	g a3 i
+訊	s eo3 n
+討	t o2 u
+訓	f a3 n
+記	g e3 i
+訝	ng aa6
+訟	z u6 ng
+訪	f o2 ng
+設	c i3 t
+許	h eo2 i
+訴	s o3 u
+註	z yu3
+詏	aa2 u
+詏	aa3 u
+詐	z aa3
+評	p i4 ng
+詞	c i4
+詢	s eo1 n
+試	s i3
+試	s i5
+詩	s i1
+話	w aa2
+話	w aa6
+該	g o1 i
+詳	c oe4 ng
+誇	kw aa1
+誌	z i3
+認	j i6 ng
+語	j yu5
+誠	s i4 ng
+誤	ng6
+誦	z u6 ng
+說	s eo3 i
+說	s yu3 t
+課	f o3
+調	d i6 u
+調	t i4 u
+談	t aa4 m
+請	c e2 ng
+請	c i2 ng
+諒	l oe6 ng
+論	l eo6 n
+諗	n a2 m
+諧	h aa4 i
+諮	z i1
+諷	f u3 ng
+謀	m a4 u
+謂	w a6 i
+謎	m a4 i
+講	g o2 ng
+謝	z e6
+謬	m a6 u
+謹	g a2 n
+證	z i3 ng
+識	s i1 k
+譜	p o2 u
+警	g i2 ng
+譯	j i6 k
+議	j i5
+護	w u6
+讀	d u6 k
+變	b i3 n
+谷	g u1 k
+豆	d a2 u
+豆	d a6 u
+豈	h e2 i
+象	z oe6 ng
+豪	h o4 u
+豬	z yu1
+貌	m aa6 u
+貓	m aa1 u
+貝	b u3 i
+負	f u6
+財	c o4 i
+貧	p a4 n
+貨	f o3
+貪	t aa1 m
+責	z aa3 k
+貴	gw a3 i
+買	m aa5 i
+貸	t aa3 i
+費	f a3 i
+貼	t i3 p
+貿	m a6 u
+資	z i1
+賣	m aa6 i
+質	z a1 t
+賬	z oe3 ng
+賺	z aa6 n
+購	g a3 u
+購	k a3 u
+賽	c o3 i
+贊	z aa3 n
+贏	j e4 ng
+走	z a2 u
+起	h e2 i
+趁	c a3 n
+超	c i1 u
+越	j yu6 t
+趕	g o2 n
+趙	z i6 u
+趣	c eo3 i
+足	z u1 k
+跌	d i3 t
+距	k eo5 i
+跟	g a1 n
+跡	z i1 k
+跨	kw aa1
+路	l o6 u
+跳	t i3 u
+踎	m a1 u
+踏	d aa6 p
+踐	c i2 n
+踐	c i5 n
+踢	t e3 k
+踩	c aa2 i
+踴	j u2 ng
+躍	j oe6 k
+躝	l aa1 n
+躝	l aa4 n
+身	s a1 n
+車	c e1
+軌	gw a2 i
+軍	gw a1 n
+軟	j yu5 n
+較	g aa3 u
+載	z o2 i
+載	z o3 i
+輔	f u6
+輕	h i1 ng
+輪	l eo4 n
+輯	c a1 p
+輸	s yu1
+輿	j yu4
+轄	h a6 t
+轉	z yu2 n
+轉	z yu3 n
+辛	s a1 n
+辣	l aa6 t
+辦	b aa6 n
+辭	c i4
+農	n u4 ng
+迎	j i4 ng
+近	g a6 n
+近	k a5 n
+返	f aa1 n
+返	f aa2 n
+迫	b i1 k
+述	s eo6 t
+迷	m a4 i
+追	z eo1 i
+退	t eo3 i
+送	s u3 ng
+逃	t o4 u
+透	t a3 u
+逐	z u6 k
+途	t o4 u
+逗	d a6 u
+通	t u1 ng
+速	c u1 k
+造	c o3 u
+造	z o6 u
+連	l i4 n
+進	z eo3 n
+逳	j u1 k
+逼	b i1 k
+遇	j yu6
+遊	j a4 u
+運	w a6 n
+過	gw o3
+道	d o6 u
+達	d aa6 t
+遠	j yu5 n
+適	s i1 k
+遮	z e1
+遲	c i4
+選	s yu2 n
+遼	l i4 u
+避	b e6 i
+邀	j i1 u
+還	w aa4 n
+邊	b i1 n
+邏	l o4
+邑	j a1 p
+部	b o6 u
+都	d o1 u
+鄉	h oe1 ng
+鄭	z e6 ng
+鄰	l eo4 n
+配	p u3 i
+酒	z a2 u
+酸	s yu1 n
+醒	s e2 ng
+醒	s i2 ng
+醜	c a2 u
+醫	j i1
+醬	z oe3 ng
+釋	s i1 k
+里	l e5 i
+重	c u4 ng
+重	c u5 ng
+重	z u6 ng
+野	j e5
+量	l oe4 ng
+量	l oe6 ng
+金	g a1 m
+釜	f u2
+針	z a1 m
+鈍	d eo6 n
+鉸	g aa2 u
+鉸	g aa3 u
+銀	ng a4 n
+銘	m i5 ng
+銬	k aa3 u
+鋪	p o1 u
+錄	l u6 k
+錢	c i2 n
+錢	c i4 n
+錯	c o3
+鍵	g i6 n
+鍾	z u1 ng
+鎖	s o2
+鎮	z a3 n
+鏡	g e3 ng
+鐘	z u1 ng
+鐵	t i3 t
+鑊	w o6 k
+長	c oe4 ng
+長	z oe2 ng
+門	m u4 n
+閂	s aa1 n
+閃	s i2 m
+閉	b a3 i
+開	h o1 i
+閒	h aa4 n
+間	g aa1 n
+間	g aa3 n
+閘	z aa6 p
+閣	g o3 k
+閩	m a5 n
+閪	h a1 i
+閱	j yu6 t
+闆	b aa2 n
+關	gw aa1 n
+阱	z e2 ng
+阱	z e6 ng
+阱	z i6 ng
+阻	z o2
+阿	aa3
+阿	o1
+陀	t o4
+附	f u6
+陌	m a6 k
+降	g o3 ng
+降	h o4 ng
+限	h aa6 n
+院	j yu2 n
+陣	z a6 n
+除	c eo4 i
+陪	p u4 i
+陰	j a1 m
+陳	c a4 n
+陷	h a6 m
+陸	l u6 k
+陽	j oe4 ng
+隆	l u4 ng
+隊	d eo6 i
+階	g aa1 i
+隔	g aa3 k
+際	z a3 i
+隨	c eo4 i
+險	h i2 m
+隱	j a2 n
+隻	z e3 k
+雄	h u4 ng
+雅	ng aa1
+雅	ng aa5
+集	z aa6 p
+雖	s eo1 i
+雙	s oe1 ng
+雛	c o1
+雜	z aa6 p
+雞	g a1 i
+離	l e4 i
+難	n aa4 n
+難	n aa6 n
+雨	j yu5
+雪	s yu3 t
+雲	w a4 n
+零	l i4 ng
+雷	l eo4 i
+電	d i6 n
+需	s eo1 i
+震	z a3 n
+露	l o6 u
+霸	b aa3
+靈	l i4 ng
+青	c e1 ng
+青	c i1 ng
+靚	l e3 ng
+靜	z i6 ng
+非	f e1 i
+靠	k aa3 u
+面	m i2 n
+面	m i6 n
+革	g aa3 k
+鞋	h aa4 i
+韓	h o4 n
+音	j a1 m
+韻	w a5 n
+響	h oe2 ng
+頁	j i6 p
+頂	d e2 ng
+頂	d i2 ng
+項	h o6 ng
+順	s eo6 n
+須	s eo1 i
+預	j yu6
+領	l e2 ng
+領	l e5 ng
+領	l i5 ng
+頡	k i3 t
+頭	t a4 u
+頸	g e2 ng
+頻	p a4 n
+顆	f o2
+題	t a4 i
+額	ng aa6 k
+願	j yu6 n
+類	l eo6 i
+顧	g u3
+顯	h i2 n
+風	f u1 ng
+颱	t o4 i
+飆	b i1 u
+飛	f e1 i
+食	s i6 k
+飯	f aa6 n
+飲	j a2 m
+飽	b aa2 u
+飾	s i1 k
+餃	g aa2 u
+養	j oe5 ng
+餐	c aa1 n
+餓	ng o6
+餘	j yu4
+館	g u2 n
+餵	w a3 i
+餸	s u3 ng
+饋	gw a6 i
+饑	g e1 i
+首	s a2 u
+香	h oe1 ng
+馬	m aa5
+駕	g aa3
+駛	s a2 i
+騙	p i3 n
+騰	t a4 ng
+驕	g i1 u
+驗	j i6 m
+驚	g e1 ng
+驚	g i1 ng
+骨	gw a1 t
+骰	s i1 k
+髀	b e2 i
+體	t a2 i
+高	g o1 u
+髮	f aa3 t
+鬆	s u1 ng
+鬥	d a3 u
+鬧	n aa6 u
+鬱	w a1 t
+鬼	gw a2 i
+魂	w a4 n
+魔	m o1
+魚	j yu2
+魚	j yu4
+魯	l o5 u
+鮮	s i1 n
+鳥	n i5 u
+鳩	g a1 u
+鴨	aa2 p
+鴨	aa3 p
+鵝	ng o2
+鵝	ng o4
+鵡	m o5 u
+鸚	j i1 ng
+鹹	h aa4 m
+鹽	j i4 m
+麪	m i6 n
+麵	m i6 n
+麻	m aa4
+黃	w o4 ng
+黎	l a4 i
+黐	c i1
+黑	h a1 k
+默	m a6 k
+點	d i2 m
+鼓	g u2
+鼠	s yu2
+鼻	b e6 i
+齊	c a4 i
+齋	z aa1 i
+龍	l u4 ng
+龐	p o4 ng
