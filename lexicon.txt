@@ -1,0 +1,3058 @@
+{LG}	spn
+{SL}	sil
+〇	l ɪ˨˩ ŋ
+㓤	k ɐ˥ t̚
+㖭	tʰ iː˥ m
+㗇	k aː˨˧
+㗇	h aː˥
+㗎	k ɐ˧
+㗎	k aː˨˥
+㗎	k aː˧
+㗎	k aː˨˩
+㗱	ts aː˨ p̚
+㗱	ts ɛː˨˥ p̚
+㗱	ts ɛː˨˩ p̚
+㗱	ts ɛː˨ p̚
+㜺	ts aː˨˥ n
+㞗	k ɐw˥
+㞗	kʰ ɐw˨˩
+㧻	t ʊ˥ k̚
+㨃	t ɵɥ˨˥
+㷫	h ɪ˧ ŋ
+䎺	ts ɐi˧
+䟴	ŋ ɐ˧ n
+一	j ɐ˥ t̚
+丁	t ɛː˥ ŋ
+丁	t ɪ˥ ŋ
+七	tsʰ ɐ˥ t̚
+丈	ts œː˨ ŋ
+三	s aː˥ m
+上	s œː˨˧ ŋ
+上	s œː˨ ŋ
+下	h aː˨˥
+下	h aː˨˧
+下	h aː˨
+不	p ɐ˥ t̚
+丐	kʰ ɔːj˧
+且	tsʰ ɛː˨˥
+世	s ɐi˧
+丟	t iːw˥
+並	p ɪ˨ ŋ
+中	ts ʊ˥ ŋ
+中	ts ʊ˧ ŋ
+串	tsʰ yː˧ n
+主	ts yː˨˥
+乃	n aːj˨˧
+久	k ɐw˨˥
+之	ts iː˥
+乎	f uː˨˩
+乏	f ɐ˨ t̚
+乖	kʷ aːj˥
+乘	s ɪ˨˩ ŋ
+乙	j yː˨ t̚
+乜	m ɐ˥ t̚
+九	k ɐw˥
+九	k ɐw˨˥
+乞	h ɐ˥ t̚
+也	j aː˨˧
+乳	j yː˨˧
+乸	n aː˨˥
+乾	k ɔː˥ n
+亂	l yː˨˥ n
+亂	l yː˨ n
+了	l iːw˨˧
+予	j yː˨˧
+事	s iː˨
+二	j iː˨
+于	j yː˥
+互	w uː˨
+五	ŋ̍˨˧
+井	ts ɛː˨˥ ŋ
+些	s ɛː˥
+亞	aː˧
+亡	m ɔː˨˩ ŋ
+交	k aːw˥
+亦	j ɪ˨ k̚
+亨	h ɐ˥ ŋ
+享	h œː˨˥ ŋ
+京	k ɪ˥ ŋ
+亮	l œː˨ ŋ
+人	j ɐ˨˥ n
+人	j ɐ˨˩ n
+仆	pʰ ʊ˥ k̚
+仇	s ɐw˨˩
+今	k ɐ˥ m
+介	k aːj˧
+仍	j ɪ˨˩ ŋ
+仔	ts ɐi˨˥
+仔	ts iː˨˥
+他	tʰ aː˥
+仗	ts œː˨˥ ŋ
+仗	ts œː˧ ŋ
+付	f uː˨
+仙	s iː˥ n
+代	t ɔːj˨
+令	l ɪ˨ ŋ
+以	j iː˨˧
+仰	j œː˨˧ ŋ
+仲	ts ʊ˨ ŋ
+件	k iː˨˥ n
+件	k iː˨ n
+任	j ɐ˨ m
+份	f ɐ˨˥ n
+份	f ɐ˨ n
+仿	f ɔː˨˥ ŋ
+企	kʰ ej˨˥
+企	kʰ ej˨˧
+伊	j iː˥
+伏	p ʊ˨ k̚
+伏	f ʊ˨ k̚
+休	j ɐw˥
+伙	f ɔː˨˥
+伯	p aː˧ k̚
+估	k uː˨˥
+伴	p uː˨ n
+伴	pʰ uː˨˥ n
+伸	s ɐ˥ n
+伺	s iː˨
+伺	ts iː˨
+似	tsʰ iː˨˧
+但	t aː˨ n
+佈	p ow˧
+位	w ɐi˨˥
+位	w ɐi˨
+低	t ɐi˥
+住	ts yː˨
+佐	ts ɔː˧
+佔	ts iː˧ m
+何	h ɔː˨˩
+余	j yː˨˩
+佛	f ɐ˨ t̚
+作	ts ɔː˧ k̚
+你	n ej˨˧
+佢	kʰ ɵɥ˨˧
+佬	l ow˨˥
+佳	k aːj˥
+併	pʰ ɪ˧ ŋ
+使	s ɐi˨˥
+使	s iː˨˥
+使	s iː˧
+來	l ɐi˨˩
+來	l ɔːj˨˩
+例	l ɐi˨
+侗	tʰ ʊ˨˩ ŋ
+供	k ʊ˥ ŋ
+供	k ʊ˧ ŋ
+依	j iː˥
+侮	m ow˨˧
+侯	h ɐw˨˩
+侵	tsʰ ɐ˥ m
+侶	l ɵɥ˨˧
+便	p iː˨ n
+係	h ɐi˨˧
+係	h ɐi˨
+促	tsʰ ʊ˥ k̚
+俄	ŋ ɔː˨˩
+俊	ts ɵ˧ n
+俏	tsʰ iːw˧
+俗	ts ʊ˨ k̚
+俚	l ej˨˧
+保	p ow˨˥
+俠	h ɐ˨ p̚
+信	s ɵ˧ n
+修	s ɐw˥
+俱	kʰ ɵɥ˥
+俺	j iː˧ m
+俾	p ej˨˥
+倉	tsʰ ɔː˥ ŋ
+個	k ɔː˧
+倍	pʰ uːj˨˧
+倒	t ow˨˥
+倒	t ow˧
+候	h ɐw˨
+借	ts ɛː˧
+倡	tsʰ œː˥ ŋ
+倡	tsʰ œː˧ ŋ
+倫	l ɵ˨˩ n
+值	ts ɪ˨ k̚
+假	k aː˨˥
+假	k aː˧
+偈	k ɐi˨˥
+偉	w ɐi˨˧
+偏	pʰ iː˥ n
+做	ts ow˨
+停	tʰ ɪ˨˩ ŋ
+健	k iː˨ n
+側	ts ɐ˥ k̚
+偶	ŋ ɐw˨˧
+偷	tʰ ɐw˥
+偽	ŋ ɐi˨
+傅	f uː˨
+傑	k iː˨ t̚
+備	p ej˨˥
+備	p ej˨
+催	tsʰ ɵɥ˥
+傭	j ʊ˨˩ ŋ
+傲	ŋ ow˨
+傳	tsʰ yː˨˩ n
+傳	ts yː˨ n
+債	ts aːj˧
+傷	s œː˥ ŋ
+傻	s ɔː˨˩
+傾	kʰ ɪ˥ ŋ
+僅	k ɐ˨˥ n
+僆	l ɛː˥ ŋ
+僆	l iː˨˧ n
+像	ts œː˨ ŋ
+僕	p ʊ˨ k̚
+僚	l iːw˨˩
+僧	ts ɐ˥ ŋ
+價	k aː˧
+僻	pʰ ɪ˥ k̚
+億	j ɪ˥ k̚
+儆	k ɪ˨˥ ŋ
+儒	j yː˨˩
+儘	ts ɵ˨˥ n
+儘	ts ɵ˨ n
+償	s œː˨˩ ŋ
+優	j ɐw˥
+儲	tsʰ yː˨˧
+允	w ɐ˨˧ n
+元	j yː˨˩ n
+兄	h ɪ˥ ŋ
+充	tsʰ ʊ˥ ŋ
+兆	s iːw˨
+先	s iː˥ n
+光	kʷ ɔː˥ ŋ
+克	h ɐ˥ k̚
+免	m iː˨˧ n
+兒	j iː˥
+兒	j iː˨˩
+兜	t ɐw˥
+入	j ɐ˨ p̚
+內	n ɔːj˨
+全	tsʰ yː˨˩ n
+兩	l œː˨˩ ŋ
+兩	l œː˨˧ ŋ
+八	p aː˧ t̚
+公	k ʊ˥ ŋ
+六	l ʊ˨ k̚
+共	k ʊ˨ ŋ
+兵	p ɪ˥ ŋ
+其	kʰ ej˨˩
+具	k ɵɥ˨
+典	t iː˨˥ n
+兼	k iː˥ m
+冇	m ow˨˧
+冊	tsʰ aː˧ k̚
+再	ts ɔːj˧
+冒	m ow˨
+冚	h ɐ˨ m
+冚	kʰ ɐ˨˥ m
+冧	l ɐ˥ m
+冧	l ɐ˧ m
+冬	t ʊ˥ ŋ
+冰	p ɪ˥ ŋ
+冷	l aː˨˧ ŋ
+准	ts ɵ˨˥ n
+凈	ts ɛː˨ ŋ
+凈	ts ɪ˨ ŋ
+凌	l ɪ˨˩ ŋ
+凍	t ʊ˧ ŋ
+凡	f aː˨˩ n
+凸	t ɐ˨ t̚
+出	tsʰ ɵ˥ t̚
+凼	tʰ ɐ˨˧ m
+刀	t ow˥
+分	f ɐ˥ n
+分	f ɐ˨ n
+切	tsʰ ɐi˧
+切	tsʰ iː˧ t̚
+刑	j ɪ˨˩ ŋ
+列	l iː˨ t̚
+初	tsʰ ɔː˥
+判	pʰ uː˧ n
+別	p iː˨ t̚
+利	l ɐi˨
+利	l ej˨
+刪	s aː˥ n
+刮	kʷ aː˧ t̚
+到	t ow˨˥
+到	t ow˧
+制	ts ɐi˧
+刷	tsʰ aː˧ t̚
+券	k yː˧ n
+券	h yː˧ n
+刹	s aː˧ t̚
+刺	tsʰ iː˧
+刻	h ɐ˥ k̚
+則	ts ɐ˥ k̚
+前	tsʰ iː˨˩ n
+剩	s ɪ˨ ŋ
+剩	ts ɪ˨ ŋ
+剪	ts iː˨˥ n
+副	f uː˧
+割	k ɔː˧ t̚
+創	tsʰ ɔː˧ ŋ
+劃	w aː˨ k̚
+劇	kʰ ɛː˨ k̚
+劈	pʰ ɛː˧ k̚
+劉	l ɐw˨˩
+劍	k iː˧ m
+劑	ts ɐi˥
+力	l ɪ˨ k̚
+功	k ʊ˥ ŋ
+加	k aː˥
+加	k aː˧
+助	ts ɔː˨
+努	n ow˨˧
+劫	k iː˧ p̚
+勁	k ɪ˧ ŋ
+勁	k ɪ˨ ŋ
+勉	m iː˨˧ n
+動	t ʊ˨ ŋ
+務	m ow˨
+勝	s ɪ˥ ŋ
+勝	s ɪ˧ ŋ
+勞	l ow˨˩
+募	m ow˨
+勢	s ɐi˧
+勳	f ɐ˥ n
+勵	l ɐi˨
+勸	h yː˧ n
+勾	ŋ ɐw˥
+勿	m ɐ˨ t̚
+包	p aːw˥
+化	f aː˨˥
+化	f aː˧
+北	p ɐ˥ k̚
+匙	s iː˨˩
+匠	ts œː˨ ŋ
+匪	f ej˨˥
+匯	w uːj˨
+匹	pʰ ɐ˥ t̚
+匿	n ej˥
+匿	n ɪ˥ k̚
+區	kʰ ɵɥ˥
+十	s ɐ˥ p̚
+十	s ɐ˨ p̚
+千	tsʰ iː˥ n
+升	s ɪ˥ ŋ
+午	ŋ̍˨˧
+半	p uː˧ n
+卒	ts ɵ˥ t̚
+卓	tsʰ œː˧ k̚
+協	h iː˧ p̚
+南	n aː˨˩ m
+博	p ɔː˧ k̚
+卜	p ʊ˥ k̚
+占	ts iː˥ m
+卡	kʰ aː˥
+卡	kʰ aː˥ t̚
+卦	kʷ aː˧
+印	j ɐ˧ n
+危	ŋ ɐi˨˩
+即	ts ɪ˥ k̚
+卷	k yː˨˥ n
+卸	s ɛː˧
+卻	kʰ œː˧ k̚
+卽	ts ɪ˥ k̚
+厄	aː˥ k̚
+厘	l ej˨˩
+厚	h ɐw˨˧
+原	j yː˨˩ n
+厭	j iː˧ m
+厲	l ɐi˨
+厲	l ej˨
+去	h ɵɥ˧
+參	tsʰ aː˥ m
+參	s ɐ˥ m
+又	j ɐw˨
+叉	tsʰ aː˥
+及	kʰ ɐ˨ p̚
+友	j ɐw˨˥
+友	j ɐw˨˧
+反	f aː˨˥ n
+叔	s ʊ˥ k̚
+取	tsʰ ɵɥ˨˥
+受	s ɐw˨
+叛	p uː˨ n
+口	h ɐw˥
+口	h ɐw˨˥
+古	k uː˨˥
+句	k ɵɥ˧
+另	l ɪ˨ ŋ
+只	ts iː˨˥
+叫	k iːw˧
+叭	p aː˥
+叮	t ɪ˥ ŋ
+可	h ɔː˨˥
+台	tʰ ɔːj˨˩
+史	s iː˨˥
+右	j ɐw˨
+司	s iː˥
+叻	l ɛː˥ k̚
+叻	l ɪ˥ k̚
+吂	m ɔː˨˩ ŋ
+吃	h ɛː˧ k̚
+各	k ɔː˧ k̚
+合	h ɐ˨ p̚
+吉	k ɐ˥ t̚
+吊	t iːw˧
+同	tʰ ʊ˨˩ ŋ
+名	m ɛː˨˥ ŋ
+名	m ɪ˨˩ ŋ
+吐	tʰ ow˧
+向	h œː˧ ŋ
+吓	h aː˨˥
+吖	aː˥
+君	kʷ ɐ˥ n
+吞	tʰ ɐ˥ n
+吟	j ɐ˨˩ m
+否	f ɐw˨˥
+含	h ɐ˨˩ m
+吱	ts iː˥
+吳	ŋ̍˨˩
+吵	tsʰ aːw˨˥
+吸	kʰ ɐ˥ p̚
+吹	tsʰ ɵɥ˥
+呀	aː˨˩
+呀	aː˨
+呃	ŋ aː˥ k̚
+呆	ŋ ɔːj˨˩
+告	k ow˧
+告	k ʊ˥ k̚
+呢	l ɛː˥
+呢	l ɛː˨˩
+呢	n ɛː˥
+呢	n ej˥
+呢	n iː˥
+周	ts ɐw˥
+味	m ej˨˥
+味	m ej˨
+呵	h ɔː˥
+呵	h ɔː˨˥
+呷	k aː˧ t̚
+呷	h aː˧ p̚
+呻	s ɐ˥ n
+呻	s ɐ˧ n
+呼	f uː˥
+命	m ɛː˨ ŋ
+命	m ɪ˨ ŋ
+咀	ts ɵɥ˨˥
+咁	k ɐ˨˥ m
+咁	k ɐ˧ m
+咋	ts aː˥
+咋	ts aː˧
+和	w ɔː˨˩
+和	w ɔː˨
+咓	aː˨˧
+咓	ŋ aː˨˧
+咖	k aː˧
+咖	kʰ aː˥
+咗	ts ɔː˨˥
+咦	j iː˨˥
+咧	l ɛː˨˩
+咧	l iː˨ t̚
+咩	m ɛː˥
+咪	m ɐi˥
+咪	m ɐi˨˧
+咪	m ɐi˨
+咪	m iː˨˩
+咬	ŋ aːw˨˧
+咳	kʰ ɐ˥ t̚
+咸	h aː˨˩ m
+品	p ɐ˨˥ n
+哂	tsʰ ɐ˨˥ n
+哄	h ʊ˧ ŋ
+哇	w aː˥
+哈	h aː˥
+哋	t ej˨
+哎	aːj˥
+哎	ɐi˥
+員	j yː˨˩ n
+哥	k ɔː˥
+哥	k ɔː˨˩
+哦	ɔː˨˥
+哦	ɔː˨˩
+哩	l ɛː˨˧
+哩	l ej˨˧
+哲	ts iː˧ t̚
+唉	aːj˥
+唏	h ej˥
+唐	tʰ ɔː˨˩ ŋ
+唔	m̩˨˩
+唔	ŋ̍˨˧
+唞	tʰ ɐw˨˥
+唥	l aː˥ ŋ
+唥	l aː˨ ŋ
+唧	ts ɛː˥ k̚
+唪	p aː˨ ŋ
+唪	f ʊ˨˥ ŋ
+唪	f ʊ˨ ŋ
+唯	w ɐi˨˩
+唱	tsʰ œː˧ ŋ
+唳	l ɐi˨
+唳	l ɵɥ˨
+唳	l iː˨ t̚
+唷	j ɔː˥
+唷	j ɔː˧
+唸	n iː˨ m
+商	s œː˥ ŋ
+啊	aː˧
+啊	aː˨
+啊	ɔː˧
+問	m ɐ˨ n
+啓	kʰ ɐi˨˥
+啖	t aː˨ m
+啟	kʰ ɐi˨˥
+啡	f ɛː˥
+啤	p ɛː˥
+啤	pʰ ɛː˥
+啦	l aː˥
+啩	kʷ aː˧
+啫	ts ɛː˥
+啱	ŋ aː˥ m
+啲	t iː˥
+啲	t iː˥ t̚
+喂	w ɐi˧
+喃	n aː˨˩ m
+善	s iː˨ n
+喇	l aː˧
+喉	h ɐw˨˩
+喊	h aː˧ m
+喎	w ɔː˧
+喎	w ɔː˨˧
+喐	j ʊ˥ k̚
+喑	j ɐ˥ m
+喑	ŋ ɐ˨ m
+喔	ɐ˥ k̚
+喜	h ej˨˥
+喝	h ɔː˧ t̚
+喪	s ɔː˥ ŋ
+喪	s ɔː˧ ŋ
+喫	h ɛː˧ k̚
+喬	kʰ iːw˨˩
+單	t aː˥ n
+喺	h ɐi˨˥
+喻	j yː˨
+嗌	aːj˧
+嗚	w uː˥
+嗟	ts ɛː˥
+嗦	s ɔː˥
+嗬	h ɔː˨˥
+嗬	h ɔː˨˩
+嗮	s aːj˧
+嗯	ŋ̍˨
+嗰	k ɔː˨˥
+嗰	k ɔː˧
+嗱	l aː˨˥
+嗱	l aː˨˩
+嗱	n aː˥
+嗱	n aː˨˩
+嗲	t ɛː˨˥
+嗷	ŋ ow˨˩
+嘅	k ɛː˧
+嘆	tʰ aː˧ n
+嘈	tsʰ ow˨˩
+嘉	k aː˥
+嘎	k ɐ˨˩
+嘎	k aː˨˩
+嘔	ɐw˨˥
+嘗	s œː˨˩ ŋ
+嘛	m aː˧
+嘛	m aː˨˧
+嘜	m ɐ˥ k̚
+嘞	l ɐ˧
+嘞	l aː˧ k̚
+嘞	l ɐ˧ k̚
+嘢	j ɛː˨˧
+嘥	s aːj˥
+嘩	w aː˥
+嘲	ts aːw˥
+嘴	ts ɵɥ˨˥
+噃	p ɔː˧
+噉	k ɐ˨˥ m
+噏	ɐ˥ p̚
+噏	ŋ ɐ˥ p̚
+噓	h ɵɥ˥
+噚	tsʰ ɐ˧ m
+噚	tsʰ ɐ˨˩ m
+噚	tsʰ ɐ˨ m
+噢	j yː˨˥
+噢	ow˧
+器	h ej˧
+噪	tsʰ ow˧
+噬	s ɐi˨˩
+噬	s ɐi˨
+噴	pʰ ɐ˧ n
+噹	t ɔː˥ ŋ
+嚇	h aː˧ k̚
+嚟	l ɐi˨˥
+嚟	l ɐi˨˩
+嚟	l ej˨˩
+嚴	j iː˨˩ m
+嚸	t iː˨˥ m
+嚼	ts œː˧ k̚
+嚿	k ɐw˨
+囈	ŋ ɐi˨
+囉	l ɔː˥
+囉	l ɔː˧
+囖	l ɔː˨˩
+四	s ej˧
+回	w uːj˨˩
+因	j ɐ˥ n
+囤	tʰ yː˨˩ n
+困	kʷʰ ɐ˧ n
+固	k uː˧
+圈	h yː˥ n
+國	kʷ ɔː˧ k̚
+圍	w ɐi˨˩
+園	j yː˨˩ n
+圓	j yː˨˥ n
+圓	j yː˨˩ n
+圖	tʰ ow˨˩
+圖	tʰ ow˨˧
+團	tʰ yː˨˩ n
+土	tʰ ow˨˥
+在	ts ɔːj˨
+地	t ej˨˥
+地	t ej˨
+圳	ts ɐ˧ n
+圾	s aː˧ p̚
+址	ts iː˨˥
+坊	f ɔː˥ ŋ
+坎	h ɐ˥ m
+坎	h ɐ˨˥ m
+坐	tsʰ ɔː˨˧
+坐	ts ɔː˨
+坑	h aː˥ ŋ
+坡	p ɔː˥
+坦	tʰ aː˨˥ n
+坪	pʰ ɪ˨˩ ŋ
+垃	l aː˨ p̚
+型	j ɪ˨˩ ŋ
+埃	ɔːj˥
+埋	m aːj˨˩
+城	s ɛː˨˩ ŋ
+城	s ɪ˨˩ ŋ
+埔	p ow˧
+埗	p ow˨˥
+埗	p ow˨
+域	w ɪ˨ k̚
+埠	f ɐw˨
+執	ts ɐ˥ p̚
+培	pʰ uːj˨˩
+基	k ej˥
+堂	tʰ ɔː˨˥ ŋ
+堂	tʰ ɔː˨˩ ŋ
+堅	k iː˥ n
+堆	t ɵɥ˥
+堡	p ow˨˥
+報	p ow˧
+場	tsʰ œː˨˩ ŋ
+塊	f aːj˧
+塔	tʰ aː˧ p̚
+塘	tʰ ɔː˨˩ ŋ
+塞	tsʰ ɔːj˧
+塞	s ɐ˥ k̚
+填	tʰ iː˨˩ n
+塵	tsʰ ɐ˨˩ n
+境	k ɪ˨˥ ŋ
+墊	t iː˧ n
+墊	t iː˨ n
+墊	ts iː˧ n
+增	ts ɐ˥ ŋ
+墨	m ɐ˨ k̚
+墮	t ɔː˨
+墳	f ɐ˨˩ n
+墻	tsʰ œː˨˩ ŋ
+壇	tʰ aː˨˩ n
+壓	aː˧ t̚
+壞	w aːj˨˥
+壞	w aːj˨
+壤	j œː˨ ŋ
+士	s iː˨˥
+士	s iː˨
+壯	ts ɔː˧ ŋ
+壽	s ɐw˨
+夀	s ɐw˨
+夏	h aː˨
+夕	ts ɪ˨ k̚
+外	ŋ ɔːj˨
+多	t ɔː˥
+多	t œː˥
+夜	j ɛː˨˥
+夜	j ɛː˨
+夠	k ɐw˧
+夢	m ʊ˨ ŋ
+大	t aːj˨˥
+大	t aːj˨
+天	tʰ iː˥ n
+太	tʰ aːj˧
+夫	f uː˥
+央	j œː˥ ŋ
+失	s ɐ˥ t̚
+夷	j iː˨˩
+夾	k aː˧ p̚
+夾	k ɛː˧ p̚
+夾	k ɛː˨ p̚
+奇	kʰ ɛː˨˩
+奇	kʰ ej˨˩
+奉	f ʊ˨ ŋ
+奎	f uːj˥
+奏	ts ɐw˧
+契	kʰ ɐi˧
+奔	p ɐ˥ n
+套	tʰ ow˨˥
+套	tʰ ow˧
+奧	ow˧
+奪	t yː˨ t̚
+奮	f ɐ˨˧ n
+女	n ɵɥ˨˥
+女	n ɵɥ˨˧
+奴	n ow˨˩
+奶	n aːj˥
+奶	n aːj˨˧
+奸	k aː˥ n
+好	h ow˨˥
+好	h ow˧
+如	j yː˨˩
+妄	m ɔː˨˧ ŋ
+妒	t ow˧
+妙	m iːw˨
+妝	ts ɔː˥ ŋ
+妥	tʰ ɔː˨˧
+妨	f ɔː˨˩ ŋ
+妳	n ej˨˧
+妹	m uːj˥
+妹	m uːj˨˥
+妹	m uːj˨˩
+妹	m uːj˨
+姊	ts iː˨˥
+始	tsʰ iː˨˥
+姐	ts ɛː˥
+姐	ts ɛː˨˥
+姐	ts ɛː˨˩
+姑	k uː˥
+姓	s ɪ˧ ŋ
+委	w ɐi˨˥
+姣	h aːw˨˩
+姦	k aː˥ n
+姨	j iː˥
+姨	j iː˨˩
+姻	j ɐ˥ n
+威	w ɐi˥
+娛	j yː˨˩
+娥	ŋ ɔː˨˩
+婆	pʰ ɔː˨˥
+婆	pʰ ɔː˨˩
+婊	p iːw˨˥
+婚	f ɐ˥ n
+婦	f uː˨˧
+媒	m uːj˨˩
+媳	s ɪ˥ k̚
+媽	m aː˥
+媽	m aː˨˩
+嫁	k aː˧
+嫌	j iː˨˩ m
+嫩	n yː˨ n
+嫲	m aː˨˩
+嬌	k iːw˥
+嬰	j ɪ˥ ŋ
+嬲	l ɐw˥
+嬲	n ɐw˥
+嬲	n iːw˨˩
+嬲	n iːw˨˧
+嬸	s ɐ˨˥ m
+子	ts iː˨˥
+孔	h ʊ˨˥ ŋ
+孖	m aː˥
+字	ts iː˨
+存	tsʰ yː˨˩ n
+季	kʷ ɐi˧
+孤	k uː˥
+孩	h aːj˨˩
+孭	m ɛː˥
+學	h ɔː˨ k̚
+孻	l aːj˥
+它	tʰ aː˥
+宅	ts aː˨˥ k̚
+宅	ts aː˨ k̚
+宇	j yː˨˧
+守	s ɐw˨˥
+安	ɔː˥ n
+宋	s ʊ˧ ŋ
+完	j yː˨˩ n
+宏	w ɐ˨˩ ŋ
+宗	ts ʊ˥ ŋ
+官	k uː˥ n
+宙	ts ɐw˨
+定	t ɛː˨ ŋ
+定	t ɪ˨ ŋ
+宜	j iː˨˩
+客	h aː˧ k̚
+宣	s yː˥ n
+室	s ɐ˥ t̚
+宮	k ʊ˥ ŋ
+害	h ɔːj˨
+宵	s iːw˥
+家	k aː˥
+容	j ʊ˨˩ ŋ
+宿	s ʊ˥ k̚
+寄	k ej˧
+密	m ɐ˨ t̚
+寇	kʰ ɐw˧
+富	f uː˧
+寒	h ɔː˨˩ n
+寓	j yː˨
+察	tsʰ aː˧ t̚
+寢	tsʰ ɐ˨˥ m
+實	s ɐ˨ t̚
+寧	n ɪ˨˩ ŋ
+審	s ɐ˨˥ m
+寫	s ɛː˨˥
+寳	p ow˨˥
+寵	tsʰ ʊ˨˥ ŋ
+寶	p ow˨˥
+封	f ʊ˥ ŋ
+射	s ɛː˨
+將	ts œː˥ ŋ
+將	ts œː˧ ŋ
+專	ts yː˥ n
+尊	ts yː˥ n
+尋	tsʰ ɐ˨˩ m
+對	t ɵɥ˨˥
+對	t ɵɥ˧
+導	t ow˨
+小	s iːw˨˥
+少	s iːw˨˥
+少	s iːw˧
+尖	ts iː˥ m
+尚	s œː˨ ŋ
+尤	j ɐw˨˩
+尬	k aːj˧
+就	ts ɐw˨
+尷	k aː˧ m
+尺	tsʰ ɛː˨˥ k̚
+尺	tsʰ ɛː˧ k̚
+尼	n ej˨˩
+尾	m ej˥
+尾	m ej˨˧
+局	k ʊ˨ k̚
+居	k ɵɥ˥
+屈	w ɐ˥ t̚
+屋	ʊ˥ k̚
+屌	t iːw˨˥
+屍	s iː˥
+屎	s iː˨˥
+屏	p ɪ˨˥ ŋ
+屏	pʰ ɪ˨˩ ŋ
+屑	s iː˧ t̚
+展	ts iː˨˥ n
+屙	ɔː˥
+層	tsʰ ɐ˨˩ ŋ
+屬	s ʊ˨ k̚
+屯	tʰ yː˨˩ n
+山	s aː˥ n
+岀	tsʰ ɵ˥ t̚
+岡	k ɔː˥ ŋ
+岩	ŋ aː˨˩ m
+岳	ŋ ɔː˨ k̚
+岸	ŋ ɔː˨ n
+峰	f ʊ˥ ŋ
+島	t ow˨˥
+峻	ts ɵ˧ n
+峽	h aː˨ p̚
+峽	h ɐ˨ p̚
+崇	s ʊ˨˩ ŋ
+崩	p ɐ˥ ŋ
+嶺	l ɪ˨˧ ŋ
+川	tsʰ yː˥ n
+州	ts ɐw˥
+工	k ʊ˥ ŋ
+左	ts ɔː˨˥
+巧	h aːw˨˥
+巧	kʰ iːw˨˥
+巨	k ɵɥ˨
+差	tsʰ aː˥
+差	tsʰ aːj˥
+己	k ej˨˥
+已	j iː˨˧
+巴	p aː˥
+巾	k ɐ˥ n
+巿	f ɐ˥ t̚
+市	s iː˨˧
+布	p ow˧
+希	h ej˥
+帖	tʰ iː˧ p̚
+帝	t ɐi˧
+師	s iː˥
+席	ts ɪ˨ k̚
+帳	ts œː˧ ŋ
+帶	t aːj˨˥
+帶	t aːj˧
+常	s œː˨˩ ŋ
+帽	m ow˨˥
+幀	ts ɪ˧ ŋ
+幅	f ʊ˥ k̚
+幕	m ɔː˨ k̚
+幣	p ɐi˨
+幫	p ɔː˥ ŋ
+干	k ɔː˥ n
+平	pʰ ɛː˨˩ ŋ
+平	pʰ ɪ˨˩ ŋ
+年	n iː˨˥ n
+年	n iː˨˩ n
+幸	h ɐ˨ ŋ
+幻	w aː˨ n
+幼	j ɐw˧
+幾	k ej˥
+幾	k ej˨˥
+床	tsʰ ɔː˨˩ ŋ
+序	ts ɵɥ˨
+底	t ɐi˨˥
+店	t iː˧ m
+庚	k ɐ˥ ŋ
+府	f uː˨˥
+度	t ɔː˨ k̚
+度	t ow˨
+座	ts ɔː˨˥
+座	ts ɔː˨
+庫	f uː˧
+庭	tʰ ɪ˨˩ ŋ
+康	h ɔː˥ ŋ
+廁	tsʰ iː˧
+廉	l iː˥ m
+廉	l iː˨˩ m
+廊	l ɔː˨˩ ŋ
+廠	tsʰ ɔː˨˥ ŋ
+廢	f ɐi˧
+廣	kʷ ɔː˨˥ ŋ
+廳	tʰ ɛː˥ ŋ
+延	j iː˨˩ n
+建	k iː˧ n
+廿	j aː˨
+廿	j ɛː˨
+弊	p ɐi˨
+式	s ɪ˥ k̚
+弓	k ʊ˥ ŋ
+引	j ɐ˨˧ n
+弟	t ɐi˨˥
+弟	t ɐi˨
+弱	j œː˨ k̚
+張	ts œː˥ ŋ
+強	kʰ œː˨˩ ŋ
+強	kʰ œː˨˧ ŋ
+彈	t aː˨˥ n
+彈	t aː˨ n
+彈	tʰ aː˨˩ n
+彎	w aː˥ n
+彙	w ɐi˨
+彙	w uːj˨
+形	j ɪ˨˩ ŋ
+彩	tsʰ ɔːj˨˥
+彭	pʰ aː˨˩ ŋ
+影	j ɪ˨˥ ŋ
+彼	p ej˨˥
+往	w ɔː˨˧ ŋ
+待	t ɔːj˨
+很	h ɐ˨˥ n
+律	l ɵ˨ t̚
+後	h ɐw˨
+徑	k ɪ˧ ŋ
+徒	tʰ ow˨˩
+得	t ɐ˥ k̚
+從	tsʰ ʊ˨˩ ŋ
+復	f ɐw˨
+復	f ʊ˨ k̚
+微	m ej˨˩
+徵	ts ɪ˥ ŋ
+德	t ɐ˥ k̚
+徹	tsʰ iː˧ t̚
+心	s ɐ˥ m
+必	p iː˥ t̚
+忌	k ej˨
+忍	j ɐ˨˥ n
+志	ts iː˧
+忘	m ɔː˨˩ ŋ
+忙	m ɔː˨˩ ŋ
+忠	ts ʊ˥ ŋ
+快	f aːj˧
+念	n iː˨ m
+忽	f ɐ˥ t̚
+怒	n ow˨
+怕	pʰ aː˧
+怖	p ow˧
+思	s iː˥
+思	s iː˧
+怡	j iː˨˩
+急	k ɐ˥ p̚
+性	s ɪ˧ ŋ
+怨	j yː˧ n
+怪	kʷ aːj˧
+怪	kʷ ɐi˧
+恐	h ʊ˨˥ ŋ
+恒	h ɐ˨˩ ŋ
+恢	f uːj˥
+恥	tsʰ iː˨˥
+恨	h ɐ˨ n
+恩	j ɐ˥ n
+恭	k ʊ˥ ŋ
+息	s ɪ˥ k̚
+悉	s ɪ˥ k̚
+悔	f uːj˧
+悚	s ʊ˨˥ ŋ
+悟	ŋ̍˨
+悠	j ɐw˨˩
+患	w aː˨ n
+悲	p ej˥
+悶	m uː˨ n
+情	tsʰ ɪ˨˩ ŋ
+惑	w aː˨ k̚
+惕	tʰ ɪ˥ k̚
+惜	s ɪ˥ k̚
+惟	w ɐi˨˩
+惠	w ɐi˨
+惡	ŋ ɔː˧ k̚
+惡	ɔː˧ k̚
+惡	w uː˧
+惰	t ɔː˨
+惱	n ow˨˧
+想	s œː˨˥ ŋ
+惹	j ɛː˨˧
+愈	j yː˨
+意	j iː˧
+愚	j yː˨˩
+愛	ɔːj˧
+感	k ɐ˨˥ m
+慈	tsʰ iː˨˩
+態	tʰ aːj˧
+慌	f ɔː˥ ŋ
+慕	m ow˨
+慘	tsʰ aː˨˥ m
+慢	m aː˨˥ n
+慢	m aː˨ n
+慣	kʷ aː˧ n
+慧	w ɐi˧
+慧	w ɐi˨
+慮	l ɵɥ˨
+慰	w ɐi˧
+慳	h aː˥ n
+慶	h ɪ˧ ŋ
+憂	j ɐw˥
+憎	ts ɐ˥ ŋ
+憐	l iː˨˩ n
+憑	pʰ ɐ˨˩ ŋ
+憶	j ɪ˥ k̚
+懂	t ʊ˨˥ ŋ
+懇	h ɐ˨˥ n
+應	j ɪ˥ ŋ
+應	j ɪ˧ ŋ
+懲	tsʰ ɪ˨˩ ŋ
+懶	l aː˨˥ n
+懶	l aː˨˧ n
+懷	w aːj˨˩
+懸	j yː˨˩ n
+懼	k ɵɥ˨
+戀	l yː˨˥ n
+戀	l yː˨˧ n
+戇	ŋ ɔː˨ ŋ
+戇	ts ɔː˧ ŋ
+成	s ɛː˨˩ ŋ
+成	s ɪ˨˩ ŋ
+我	ŋ ɔː˨˧
+或	w aː˨ k̚
+戚	tsʰ ɪ˥ k̚
+戥	t ɐ˨ ŋ
+截	ts iː˨ t̚
+戯	f uː˥
+戯	h ej˧
+戰	ts iː˧ n
+戲	h ej˧
+戴	t aːj˧
+戶	w uː˨
+户	w uː˨
+房	f ɔː˨˥ ŋ
+房	f ɔː˨˩ ŋ
+所	s ɔː˨˥
+手	s ɐw˨˥
+才	tsʰ ɔːj˨˩
+扎	ts aː˧ t̚
+打	t aː˥
+打	t aː˨˥
+打	t aː˧
+托	tʰ ɔː˧ k̚
+扣	kʰ ɐw˧
+扭	n ɐw˨˥
+扮	p aː˨ n
+扯	tsʰ ɛː˨˥
+批	pʰ ɐi˥
+找	ts aːw˨˥
+承	s ɪ˨˩ ŋ
+技	k ej˨
+抄	tsʰ aːw˥
+把	p aː˨˥
+抌	t ɐ˨˥ m
+抑	j ɪ˥ k̚
+抓	ts aːw˨˥
+投	tʰ ɐw˨˩
+抖	t ɐw˨˥
+抖	tʰ ɐw˨˥
+抗	kʰ ɔː˧ ŋ
+折	ts iː˧ t̚
+抨	pʰ aː˥ ŋ
+抨	pʰ ɪ˥ ŋ
+抨	pʰ ɪ˨˩ ŋ
+披	pʰ ej˥
+抬	tʰ ɔːj˨˩
+抱	pʰ ow˨˧
+抵	t ɐi˨˥
+抹	m aː˧ t̚
+抹	m uː˧ t̚
+抹	m uː˨ t̚
+押	aː˧ t̚
+抽	tsʰ ɐw˥
+拆	tsʰ aː˧ k̚
+拇	m ow˨˧
+拉	l aːj˥
+拋	pʰ aːw˥
+拍	pʰ aː˧ k̚
+拎	l ɪ˥ ŋ
+拏	n aː˨˩
+拐	kʷ aːj˨˥
+拒	kʰ ɵɥ˨˧
+拔	p ɐ˨ t̚
+拖	tʰ ɔː˥
+拗	aːw˧
+拘	kʰ ɵɥ˥
+拚	pʰ uː˧ n
+招	ts iːw˥
+拜	p aːj˥
+拜	p aːj˧
+括	kʷ aː˧ t̚
+括	kʰ uː˧ t̚
+拮	k ɐ˥ t̚
+拯	tsʰ ɪ˨˥ ŋ
+拳	kʰ yː˨˩ n
+拼	pʰ ɪ˧ ŋ
+拿	n aː˨˥
+拿	n aː˨˩
+持	tsʰ iː˨˩
+指	ts iː˨˥
+按	ɔː˧ n
+挑	tʰ iːw˥
+挖	w aː˧ t̚
+振	ts ɐ˧ n
+挺	tʰ ɪ˨˥ ŋ
+挺	tʰ ɪ˨˧ ŋ
+捉	ts ʊ˥ k̚
+捍	h ɔː˨˥ n
+捍	h ɔː˨˧ n
+捍	h ɔː˨ n
+捐	k yː˥ n
+捧	p ʊ˨˥ ŋ
+捧	pʰ ʊ˨˥ ŋ
+捨	s ɛː˨˥
+捱	ŋ aːj˨˩
+捲	k yː˨˥ n
+捷	ts iː˧ t̚
+捷	ts iː˨ t̚
+捽	tsʰ yː˧ t̚
+捽	ts ɵ˥ t̚
+捽	ts yː˧ t̚
+捽	ts yː˨ t̚
+掂	t iː˧ m
+掂	t iː˨ m
+掃	s ow˧
+授	s ɐw˨
+掉	t iːw˨
+掌	ts œː˨˥ ŋ
+排	pʰ aːj˨˥
+排	pʰ aːj˨˩
+掗	aː˨˥
+掗	aː˧
+掗	ŋ aː˨
+掘	kʷ ɐ˨ t̚
+掙	ts ɐ˥ ŋ
+掛	kʷ aː˧
+掟	t ɛː˧ ŋ
+掟	t ɛː˨ ŋ
+掠	l œː˨ k̚
+採	tsʰ ɔːj˨˥
+探	tʰ aː˧ m
+掣	ts ɐi˧
+接	ts iː˧ p̚
+控	h ʊ˧ ŋ
+推	tʰ ɵɥ˥
+掩	j iː˨˥ m
+措	tsʰ ow˧
+掹	m ɐ˥ ŋ
+掹	m ɐ˧ ŋ
+揀	k aː˨˥ n
+揈	f ɐ˧ ŋ
+揈	f ɐ˨˩ ŋ
+揈	f ɪ˨ ŋ
+揈	kʷ ɐ˥ ŋ
+描	m iːw˨˩
+提	tʰ ɐi˨˩
+插	tsʰ aː˧ p̚
+揚	j œː˨˩ ŋ
+換	w uː˨ n
+揞	ɐ˨˥ m
+握	aː˥ k̚
+握	ɐ˥ k̚
+揦	l aː˨˥
+揦	l aː˨˧
+揪	tsʰ ɐw˥
+揪	ts ɐw˥
+揭	kʰ iː˧ t̚
+揮	f ɐi˥
+援	w uː˨˩ n
+揸	ts aː˥
+揼	t ɐ˥ m
+揼	t ɐ˨˥ m
+揼	t ɐ˧ m
+揼	t ɐ˨ p̚
+揾	w ɐ˧ n
+搇	kʰ ɐ˨˥ m
+搏	p ɔː˧ k̚
+搜	s ɐw˨˥
+搞	k aːw˨˥
+搣	m iː˥ t̚
+搣	m iː˨ t̚
+搬	p uː˥ n
+搭	t aː˧ p̚
+搵	w ɐ˨˥ n
+搶	tsʰ œː˨˥ ŋ
+摀	ŋ̍˨
+摀	w uː˥
+摀	w uː˨˥
+摑	kʷ aː˧ k̚
+摑	kʷ ɔː˧ k̚
+摟	l ɐw˨˥
+摟	l ɐw˧
+摩	m ɔː˥
+摩	m ɔː˨˩
+摯	ts iː˧
+摸	m ɔː˥
+摸	m ɔː˨˥
+撈	l aːw˥
+撈	l aːw˨˩
+撈	l ow˥
+撐	tsʰ aː˥ ŋ
+撐	tsʰ aː˧ ŋ
+撒	s aː˧ t̚
+撚	l ɐ˨˥ n
+撚	n ɐ˨˥ n
+撞	ts ɔː˨ ŋ
+撤	tsʰ iː˧ t̚
+撥	p uː˨ t̚
+撩	l iːw˥
+撩	l iːw˨˥
+撩	l iːw˨˩
+撬	k iːw˨
+播	p ɔː˧
+撳	k ɐ˨ m
+撻	tʰ aː˥ t̚
+擁	j ʊ˨˥ ŋ
+擅	s iː˨ n
+擇	ts aː˨ k̚
+擊	k ɪ˥ k̚
+擋	t ɔː˨˥ ŋ
+操	tsʰ ow˥
+擎	kʰ ɛː˨˩ ŋ
+擎	kʰ ɪ˨˩ ŋ
+擒	kʰ ɐ˨˩ m
+擔	t aː˥ m
+擔	t aː˧ m
+擘	m aː˧ k̚
+據	k ɵɥ˧
+擝	m ɐ˥ ŋ
+擠	ts ɐi˥
+擦	tsʰ aː˧ t̚
+擬	j iː˨˩
+擬	j iː˨˧
+擰	l ɪ˨˥ ŋ
+擰	n ɪ˨ ŋ
+擴	kʷʰ ɔː˧ ŋ
+擸	l aː˧ p̚
+擸	l aː˨ p̚
+擸	l iː˨ p̚
+擺	p aːj˨˥
+擾	j iːw˨˥
+擾	j iːw˨˧
+攀	pʰ aː˥ n
+攔	l aː˨˩ n
+攝	s iː˧ p̚
+攞	l ɔː˨˥
+攣	l yː˥ n
+攤	tʰ aː˥ n
+攪	k aːw˨˥
+攬	l aː˨˥ m
+支	ts iː˥
+攰	k uːj˨
+收	s ɐw˥
+改	k ɔːj˨˥
+攻	k ʊ˥ ŋ
+放	f ɔː˧ ŋ
+政	ts ɪ˧ ŋ
+故	k uː˨˥
+故	k uː˧
+效	h aːw˨
+敏	m ɐ˨˧ n
+救	k ɐw˧
+敗	p aːj˨
+教	k aːw˧
+敢	k ɐ˨˥ m
+散	s aː˨˥ n
+散	s aː˧ n
+敦	t ɵ˥ n
+敬	k ɪ˧ ŋ
+敲	h aːw˥
+整	ts ɪ˨˥ ŋ
+敵	t ɪ˨ k̚
+敷	f uː˥
+數	s ow˨˥
+數	s ow˧
+斂	l iː˨˧ m
+文	m ɐ˨˥ n
+文	m ɐ˨˩ n
+料	l iːw˨˥
+料	l iːw˨
+斜	tsʰ ɛː˧
+斜	tsʰ ɛː˨˩
+斤	k ɐ˥ n
+斬	ts aː˨˥ m
+新	s ɐ˥ n
+斷	t yː˧ n
+斷	t yː˨ n
+斷	tʰ yː˨˧ n
+方	f ɔː˥ ŋ
+於	j yː˥
+施	s iː˥
+旁	pʰ ɔː˨˩ ŋ
+旅	l ɵɥ˨˧
+旋	s yː˨˩ n
+族	ts ʊ˨ k̚
+旗	kʰ ej˨˩
+既	k ej˧
+日	j ɐ˨ t̚
+旦	t aː˧ n
+旨	ts iː˨˥
+早	ts ow˨˥
+旺	w ɔː˨ ŋ
+昆	kʷʰ ɐ˥ n
+明	m ɪ˨˩ ŋ
+易	j iː˨
+易	j ɪ˨ k̚
+昔	s ɪ˥ k̚
+星	s ɪ˥ ŋ
+映	j ɪ˨˥ ŋ
+春	tsʰ ɵ˥ n
+昧	m uːj˨
+是	s iː˨
+時	s iː˨˩
+晏	aː˧ n
+晒	s aːj˧
+晚	m aː˥ n
+晚	m aː˨˧ n
+晝	ts ɐw˧
+晨	s ɐ˨˩ n
+普	pʰ ow˨˥
+景	k ɪ˨˥ ŋ
+晰	s ɪ˥ k̚
+晶	ts ɪ˥ ŋ
+智	ts iː˧
+晾	l ɔː˨ ŋ
+暈	w ɐ˨˩ n
+暑	s yː˨˥
+暖	n yː˨˧ n
+暗	ɐ˧ m
+暢	tsʰ œː˧ ŋ
+暪	m uː˨˧ n
+暫	ts aː˨ m
+暮	m ow˨
+暴	p ow˨
+暴	p ʊ˨ k̚
+暸	l iːw˨˩
+暸	l iːw˨˧
+曇	tʰ aː˨˩ m
+曉	h iːw˨˥
+曬	s aːj˧
+曲	kʰ ʊ˥ k̚
+更	k aː˥ ŋ
+更	k ɐ˥ ŋ
+更	k ɐ˧ ŋ
+書	s yː˥
+曹	tsʰ ow˨˩
+曼	m aː˨ n
+曾	tsʰ ɐ˨˩ ŋ
+曾	ts ɐ˥ ŋ
+替	tʰ ɐi˧
+最	ts ɵɥ˧
+會	w uːj˨˥
+會	w uːj˨˧
+會	w uːj˨
+月	j yː˨ t̚
+有	j ɐw˨˧
+朋	pʰ ɐ˨˩ ŋ
+服	f ʊ˨ k̚
+朕	ts ɐ˨ m
+朗	l ɔː˨˧ ŋ
+望	m ɔː˨ ŋ
+朝	tsʰ iːw˨˩
+朝	ts iːw˥
+期	kʰ ej˨˩
+木	m ʊ˨ k̚
+未	m ej˨
+末	m uː˨ t̚
+本	p uː˨˥ n
+朽	n ɐw˨˥
+李	l ej˨˧
+材	tsʰ ɔːj˨˩
+村	tsʰ yː˥ n
+杜	t ow˨
+杞	k ej˨˥
+束	tsʰ ʊ˥ k̚
+杭	h ɔː˨˩ ŋ
+杯	p uːj˥
+杰	k iː˨ t̚
+東	t ʊ˥ ŋ
+松	tsʰ ʊ˨˩ ŋ
+板	p aː˨˥ n
+枉	w ɔː˨˥ ŋ
+析	s ɪ˥ k̚
+枕	ts ɐ˨˥ m
+林	l ɐ˨˩ m
+果	kʷ ɔː˨˥
+枝	ts iː˥
+枯	f uː˥
+枱	tʰ ɔːj˨˥
+架	k aː˨˥
+架	k aː˧
+柄	p ɛː˧ ŋ
+柏	p aː˧ k̚
+柏	pʰ aː˧ k̚
+某	m ɐw˨˧
+柑	k ɐ˥ m
+柒	tsʰ ɐ˥ t̚
+柒	tsʰ ɐ˨ t̚
+染	j iː˨˧ m
+柔	j ɐw˨˩
+柚	j ɐw˨˥
+查	tsʰ aː˨˩
+柱	tsʰ yː˨˧
+柳	l ɐw˨˧
+柴	tsʰ aːj˨˩
+査	tsʰ aː˨˩
+査	ts aː˥
+校	k aːw˧
+校	h aːw˨
+核	h ɐ˨ t̚
+核	w ɐ˨ t̚
+根	k ɐ˥ n
+格	k aː˧ k̚
+桂	kʷ ɐi˧
+框	kʷʰ aː˥ ŋ
+案	ɔː˧ n
+桔	k ɐ˥ t̚
+桶	tʰ ʊ˨˥ ŋ
+桿	k ɔː˥ n
+桿	k ɔː˧ n
+梁	l œː˨˩ ŋ
+梅	m uːj˨˥
+梅	m uːj˨˩
+梗	k ɐ˨˥ ŋ
+條	tʰ iːw˨˥
+條	tʰ iːw˨˩
+梧	ŋ̍˨˩
+梧	ŋ̍˨
+梨	l ej˨˩
+梯	tʰ ɐi˥
+械	h aːj˨
+梳	s ɔː˥
+棄	h ej˧
+棍	kʷ ɐ˧ n
+棒	pʰ aː˨˧ ŋ
+棘	k ɪ˥ k̚
+棘	kʰ ɪ˥ k̚
+棚	pʰ aː˨˩ ŋ
+棟	t ʊ˨ ŋ
+森	s ɐ˥ m
+棱	l ɪ˨˩ ŋ
+棺	k uː˥ n
+植	ts ɪ˨ k̚
+椒	ts iːw˥
+椰	j ɛː˨˩
+楚	tsʰ ɔː˨˥
+業	j iː˨ p̚
+極	k ɪ˨ k̚
+楷	kʰ aːj˨˥
+概	kʰ ɔːj˧
+榜	p ɔː˨˥ ŋ
+榮	w ɪ˨˩ ŋ
+構	k ɐw˧
+構	kʰ ɐw˧
+槍	tsʰ œː˥ ŋ
+樂	l ɔː˨ k̚
+樂	ŋ ɔː˨ k̚
+樑	l œː˨˥ ŋ
+樑	l œː˨˩ ŋ
+樓	l ɐw˨˥
+樓	l ɐw˨˩
+樖	pʰ ɔː˥
+標	p iːw˥
+樞	s yː˥
+模	m ow˨˥
+模	m ow˨˩
+樣	j œː˨˥ ŋ
+樣	j œː˨ ŋ
+樹	s yː˨
+樽	ts ɵ˥ n
+橋	kʰ iːw˨˥
+橋	kʰ iːw˨˩
+機	k ej˥
+橫	w aː˨˩ ŋ
+檔	t ɔː˨˥ ŋ
+檔	t ɔː˧ ŋ
+檢	k iː˨˥ m
+櫃	kʷ ɐi˨
+櫳	l ʊ˨˥ ŋ
+櫳	l ʊ˨˩ ŋ
+權	kʰ yː˨˩ n
+次	tsʰ iː˧
+欣	j ɐ˥ n
+欲	j ʊ˨ k̚
+欺	h ej˥
+款	f uː˨˥ n
+歉	h iː˧ p̚
+歌	k ɔː˥
+歎	tʰ aː˧ n
+歐	ɐw˥
+歡	f uː˥ n
+止	ts iː˨˥
+正	ts ɛː˧ ŋ
+正	ts ɪ˥ ŋ
+正	ts ɪ˧ ŋ
+此	tsʰ iː˨˥
+步	p ow˨
+武	m ow˨˧
+歧	kʰ ej˨˩
+歪	m ɛː˨˥
+歪	w aːj˥
+歲	s ɵɥ˧
+歷	l ɪ˨ k̚
+歸	kʷ ɐi˥
+死	s ej˥
+死	s ej˨˥
+殊	s yː˨˩
+殖	ts ɪ˨ k̚
+殘	tsʰ aː˨˩ n
+段	t yː˨ n
+殺	s aː˧ t̚
+殼	h ɔː˧ k̚
+毀	w ɐi˨˥
+毋	m ow˨˩
+母	m ow˨˥
+母	m ow˨˧
+每	m uːj˨˧
+毒	t ʊ˨ k̚
+比	p ej˨˥
+毛	m ow˨˩
+毫	h ow˨˩
+氏	s iː˨
+民	m ɐ˨˩ n
+氣	h ej˧
+水	s ɵɥ˨˥
+永	w ɪ˨˧ ŋ
+汁	ts ɐ˥ p̚
+求	kʰ ɐw˨˩
+汕	s aː˧ n
+汗	h ɔː˨ n
+江	k ɔː˥ ŋ
+污	w uː˥
+汪	w ɔː˥ ŋ
+決	kʰ yː˧ t̚
+汽	h ej˧
+沃	j ʊ˥ k̚
+沈	s ɐ˨˥ m
+沉	tsʰ ɐ˨˩ m
+沊	t ɐ˨˥ m
+沒	m uː˨ t̚
+沓	t aː˨ p̚
+沖	tsʰ ʊ˥ ŋ
+沙	s aː˥
+沫	m uː˧ t̚
+沫	m uː˨ t̚
+沮	ts ɵɥ˥
+沮	ts ɵɥ˨˥
+河	h ɔː˨˩
+沸	f ɐi˧
+油	j ɐw˨˥
+油	j ɐw˨˩
+治	ts iː˨
+沿	j yː˨˩ n
+況	f ɔː˧ ŋ
+泉	tsʰ yː˨˩ n
+法	f aː˧ t̚
+泛	f aː˧ n
+泛	f aː˨ n
+泡	pʰ aːw˥
+泡	pʰ aːw˧
+泡	pʰ ow˨˧
+波	p ɔː˥
+泥	n ɐi˨˩
+注	ts yː˧
+泰	tʰ aːj˧
+泳	w ɪ˨ ŋ
+洋	j œː˨˩ ŋ
+洗	s ɐi˨˥
+洛	l ɔː˨ k̚
+洞	t ʊ˨ ŋ
+洩	s iː˧ t̚
+洪	h ʊ˨˩ ŋ
+洲	ts ɐw˥
+活	w uː˨ t̚
+派	pʰ aːj˥
+派	pʰ aːj˧
+流	l ɐw˨˩
+浙	ts iː˧ t̚
+浩	h ow˨
+浪	l ɔː˨ ŋ
+浮	f ɐw˨˩
+海	h ɔːj˨˥
+浸	ts ɐ˧ m
+消	s iːw˥
+涉	s iː˧ p̚
+涌	tsʰ ʊ˥ ŋ
+液	j ɪ˨ k̚
+涵	h aː˨˩ m
+涼	l œː˨˩ ŋ
+淘	tʰ ow˨˩
+淚	l ɵɥ˨
+淡	t aː˨ m
+淡	tʰ aː˨˧ m
+淨	ts ɛː˨ ŋ
+淨	ts ɪ˨ ŋ
+淩	l ɪ˨˩ ŋ
+淪	l ɵ˨˩ n
+淫	j ɐ˨˩ m
+深	s ɐ˥ m
+混	w ɐ˨ n
+淺	tsʰ iː˨˥ n
+添	tʰ iː˥ m
+清	tsʰ ɪ˥ ŋ
+減	k aː˨˥ m
+渠	kʰ ɵɥ˨˩
+渣	ts aː˥
+温	w ɐ˥ n
+測	tsʰ aː˥ k̚
+測	tsʰ ɐ˥ k̚
+港	k ɔː˨˥ ŋ
+渴	h ɔː˧ t̚
+游	j ɐw˨˩
+渺	m iːw˨˧
+渾	w ɐ˨˩ n
+渾	w ɐ˨ n
+湖	w uː˨˩
+湘	s œː˥ ŋ
+湯	tʰ ɔː˥ ŋ
+溏	tʰ ɔː˨˩ ŋ
+源	j yː˨˩ n
+準	ts ɵ˨˥ n
+溜	l ɐw˥
+溜	l ɐw˨˩
+溜	l ɐw˨
+溝	kʰ ɐw˥
+溪	kʰ ɐi˥
+溫	w ɐ˥ n
+溶	j ʊ˨˩ ŋ
+溺	n ɪ˥ k̚
+滅	m iː˨ t̚
+滋	ts iː˥
+滑	w aː˨ t̚
+滔	tʰ ow˥
+滘	k aːw˧
+滯	ts ɐi˨
+滲	s ɐ˧ m
+滴	t ɪ˨ k̚
+滸	w uː˨˥
+滿	m uː˨˧ n
+漁	j yː˨˩
+漂	pʰ iːw˥
+漏	l ɐw˨
+演	j iː˨˥ n
+漠	m ɔː˨ k̚
+漢	h ɔː˧ n
+漫	m aː˨ n
+漲	ts œː˧ ŋ
+潑	pʰ uː˧ t̚
+潔	k iː˧ t̚
+潛	tsʰ iː˨˩ m
+潤	j ɵ˨ n
+潦	l iːw˨˥
+潦	l iːw˨˩
+潦	l iːw˨˧
+潦	l ow˨˧
+潦	l ow˨
+潮	tsʰ iːw˨˩
+潰	kʰ uːj˨˥
+潺	s aː˨˩ n
+澳	ow˧
+激	k ɪ˥ k̚
+濁	ts ʊ˨ k̚
+濃	n ʊ˨˩ ŋ
+濕	s ɐ˥ p̚
+濟	ts ɐi˧
+濫	l aː˨˧ m
+濫	l aː˨ m
+濾	l ɵɥ˨
+瀏	l ɐw˨˩
+瀨	l aːj˨
+灘	tʰ aː˥ n
+灣	w aː˥ n
+灣	w aː˨˩ n
+火	f ɔː˨˥
+灰	f uːj˥
+灼	tsʰ œː˧ k̚
+災	ts ɔːj˥
+炒	tsʰ aːw˨˥
+炫	j yː˨˩ n
+炮	pʰ aːw˧
+炸	ts aː˧
+為	w ɐi˨˩
+為	w ɐi˨
+烏	w uː˥
+烤	h aːw˥
+焉	j iː˥ n
+焉	j iː˨˩ n
+無	m ow˨˩
+焦	ts iːw˥
+然	j iː˨˩ n
+煉	l iː˨ n
+煌	w ɔː˨˩ ŋ
+煎	ts iː˥ n
+煙	j iː˥ n
+煤	m uːj˨˩
+照	ts iːw˧
+煩	f aː˨˩ n
+煮	ts yː˨˥
+煲	p ow˥
+熒	j ɪ˨˩ ŋ
+熟	s ʊ˨ k̚
+熱	j iː˨ t̚
+燃	j iː˨˩ n
+燈	t ɐ˥ ŋ
+燎	l iːw˨˩
+燒	s iːw˥
+燙	tʰ ɔː˧ ŋ
+營	j ɪ˨˩ ŋ
+燥	tsʰ ow˧
+燦	tsʰ aː˧ n
+燭	ts ʊ˥ k̚
+燴	w uːj˨
+爆	p aːw˧
+爐	l ow˨˩
+爛	l aː˨ n
+爬	pʰ aː˨˩
+爭	ts aː˥ ŋ
+爭	ts ɐ˥ ŋ
+爲	w ɐi˨˩
+爲	w ɐi˨
+父	f uː˨
+爸	p aː˥
+爸	p aː˨˩
+爺	j ɛː˨˩
+爽	s ɔː˨˥ ŋ
+爾	j iː˨˧
+牀	tsʰ ɔː˨˩ ŋ
+牆	tsʰ œː˨˩ ŋ
+牆	tsʰ œː˨˧ ŋ
+片	pʰ iː˨˥ n
+片	pʰ iː˧ n
+版	p aː˨˥ n
+牌	pʰ aːj˨˥
+牌	pʰ aːj˨˩
+牙	ŋ aː˨˩
+牛	ŋ ɐw˨˩
+牧	m ʊ˨ k̚
+物	m ɐ˨ t̚
+牲	s ɐ˥ ŋ
+特	t ɐ˨ k̚
+牽	h iː˥ n
+犀	s ɐi˥
+犢	t ʊ˨ k̚
+犧	h ej˥
+犯	f aː˨ n
+狀	ts ɔː˨ ŋ
+狂	kʷʰ ɔː˨˩ ŋ
+狗	k ɐw˨˥
+狼	l ɔː˨˩ ŋ
+猛	m aː˨˧ ŋ
+猜	tsʰ aːj˥
+猩	s ɪ˥ ŋ
+猬	w ɐi˨
+猶	j ɐw˨˩
+獄	j ʊ˨ k̚
+獅	s iː˥
+獎	ts œː˨˥ ŋ
+獎	ts œː˧ ŋ
+獨	t ʊ˨ k̚
+獲	w ɔː˨ k̚
+獸	s ɐw˧
+獻	h iː˧ n
+玄	j yː˨˩ n
+率	l ɵ˨˥ t̚
+率	l ɵ˨ t̚
+率	s ɵ˥ t̚
+玉	j ʊ˨ k̚
+王	w ɔː˨˩ ŋ
+玩	w aː˨˥ n
+玩	w uː˨ n
+玫	m uːj˨˩
+玲	l ɪ˨˩ ŋ
+玻	p ɔː˥
+珍	ts ɐ˥ n
+珠	ts yː˥
+班	p aː˥ n
+現	j iː˨ n
+球	kʰ ɐw˨˩
+理	l ej˨˧
+琪	kʰ ej˨˩
+琴	kʰ ɐ˨˩ m
+琵	pʰ ej˨˩
+琶	pʰ aː˨˩
+瑋	w ɐi˨˧
+瑛	j ɪ˥ ŋ
+瑞	s ɵɥ˨
+瑤	j iːw˨˩
+瑩	j ɪ˨˩ ŋ
+瑪	m aː˨˧
+瑰	kʷ ɐi˧
+璃	l ej˥
+璃	l ej˨˩
+璧	p ɪ˥ k̚
+環	w aː˨˩ n
+瓜	kʷ aː˥
+瓣	f aː˨ n
+甘	k ɐ˥ m
+甚	s ɐ˨ m
+甜	tʰ iː˨˩ m
+生	s aː˥ ŋ
+生	s ɐ˥ ŋ
+產	tsʰ aː˨˥ n
+用	j ʊ˨ ŋ
+甩	l ɐ˥ t̚
+田	tʰ iː˨˩ n
+由	j ɐw˨˥
+由	j ɐw˨˩
+甲	k aː˧ p̚
+申	s ɐ˥ n
+男	n aː˨˩ m
+畀	p ej˨˥
+界	k aːj˧
+留	l ɐw˥
+留	l ɐw˨˩
+畢	p ɐ˥ t̚
+略	l œː˨ k̚
+番	f aː˥ n
+番	pʰ uː˥ n
+畫	w aː˨˥
+畫	w aː˨
+畫	w aː˨ k̚
+異	j iː˨
+當	t ɔː˥ ŋ
+當	t ɔː˧ ŋ
+疊	t aː˨ p̚
+疊	t iː˨ p̚
+疏	s ɔː˥
+疑	j iː˨˩
+疫	j ɪ˨ k̚
+疾	ts ɐ˨ t̚
+病	p ɛː˨ ŋ
+症	ts ɪ˥ ŋ
+症	ts ɪ˧ ŋ
+痕	h ɐ˨˩ n
+痛	tʰ ʊ˧ ŋ
+痴	tsʰ iː˥
+痾	ɔː˥
+瘁	s ɵɥ˨˧
+瘁	s ɵɥ˨
+瘋	f ʊ˥ ŋ
+瘟	w ɐ˥ n
+瘡	tsʰ ɔː˥ ŋ
+瘦	s ɐw˧
+瘴	ts œː˧ ŋ
+療	l iːw˨˩
+癌	ŋ aː˨˩ m
+癡	tsʰ iː˥
+癢	j œː˨˧ ŋ
+癩	l aːj˧
+癩	l aːj˨˩
+癮	j ɐ˨˧ n
+癱	tʰ aː˥ n
+癲	t iː˥ n
+登	t ɐ˥ ŋ
+發	f aː˧ t̚
+白	p aː˨ k̚
+百	p aː˧ k̚
+的	t ɪ˥ k̚
+皆	k aːj˥
+皇	w ɔː˨˩ ŋ
+皮	pʰ ej˨˥
+皮	pʰ ej˨˩
+皺	ts ɐw˧
+盃	p uːj˥
+益	j ɪ˥ k̚
+盒	h ɐ˨˥ p̚
+盒	h ɐ˨ p̚
+盔	kʷʰ ɐi˥
+盛	s ɪ˨ ŋ
+盜	t ow˨
+盞	ts aː˨˥ n
+盡	ts ɵ˨ n
+監	k aː˥ m
+監	k aː˧ m
+盤	pʰ uː˨˥ n
+盤	pʰ uː˨˩ n
+目	m ʊ˨ k̚
+盲	m aː˨˩ ŋ
+直	ts ɪ˨ k̚
+相	s œː˥ ŋ
+相	s œː˨˥ ŋ
+相	s œː˧ ŋ
+盾	tʰ ɵ˨˧ n
+省	s aː˨˥ ŋ
+省	s ɪ˨˥ ŋ
+眉	m ej˨˩
+看	h ɔː˥ n
+看	h ɔː˧ n
+眞	ts ɐ˥ n
+真	ts ɐ˥ n
+眠	m iː˨˩ n
+眼	ŋ aː˨˧ n
+眾	ts ʊ˧ ŋ
+着	ts œː˧ k̚
+着	ts œː˨ k̚
+睇	tʰ ɐi˨˥
+睡	s ɵɥ˨
+督	t ʊ˥ k̚
+睬	tsʰ ɔːj˨˥
+瞄	m iːw˨˩
+瞌	h ɐ˥ p̚
+瞓	f ɐ˧ n
+矇	m ʊ˨˩ ŋ
+矛	m aːw˨˩
+矜	k ɪ˥ ŋ
+知	ts iː˥
+知	ts iː˧
+矩	k ɵɥ˨˥
+短	t yː˨˥ n
+石	s ɛː˨ k̚
+砌	tsʰ ɐi˧
+研	j iː˨˩ n
+砲	pʰ aːw˧
+破	pʰ ɔː˧
+硬	ŋ aː˨˥ ŋ
+硬	ŋ aː˨ ŋ
+碌	l ʊ˥ k̚
+碎	s ɵɥ˧
+碗	w uː˨˥ n
+碟	t iː˨˥ p̚
+碟	t iː˨ p̚
+碧	p ɪ˥ k̚
+碰	pʰ ʊ˧ ŋ
+確	kʰ ɔː˧ k̚
+碼	m aː˨˧
+磁	tsʰ iː˨˩
+磅	p ɔː˨ ŋ
+磨	m ɔː˨˩
+礎	tsʰ ɔː˨˥
+礙	ŋ ɔːj˨
+礦	kʷʰ ɔː˧ ŋ
+示	s iː˨
+社	s ɛː˨˧
+祁	kʰ ej˨˩
+祈	kʰ ej˨˩
+祐	j ɐw˨
+祕	p ej˧
+祖	ts ow˨˥
+祝	ts ʊ˥ k̚
+神	s ɐ˨˥ n
+神	s ɐ˨˩ n
+祥	tsʰ œː˨˩ ŋ
+票	pʰ iːw˧
+祭	ts ɐi˧
+禁	k ɐ˧ m
+禍	w ɔː˨˧
+禍	w ɔː˨
+福	f ʊ˥ k̚
+禮	l ɐi˨˧
+禱	tʰ ow˨˥
+禺	j yː˨˩
+禾	w ɔː˨˩
+私	s iː˥
+秋	tsʰ ɐw˥
+科	f ɔː˥
+秒	m iːw˨˧
+秘	p ej˧
+租	ts ow˥
+秤	tsʰ ɪ˧ ŋ
+秤	pʰ ɪ˨˩ ŋ
+秦	tsʰ ɵ˨˩ n
+移	j iː˨˩
+稀	h ej˥
+稅	s ɵɥ˧
+程	tsʰ ɪ˨˩ ŋ
+稍	s aːw˨˥
+稚	ts iː˨
+種	ts ʊ˨˥ ŋ
+種	ts ʊ˧ ŋ
+稱	tsʰ ɪ˥ ŋ
+稱	tsʰ ɪ˧ ŋ
+稿	k ow˨˥
+穀	k ʊ˥ k̚
+穌	s ow˥
+積	ts ɪ˥ k̚
+穏	w ɐ˨˥ n
+穩	w ɐ˨˥ n
+究	k ɐw˧
+空	h ʊ˥ ŋ
+穿	tsʰ yː˥ n
+突	t ɐ˨ t̚
+窄	ts aː˧ k̚
+窒	ts ɐ˨ t̚
+窗	tsʰ œː˥ ŋ
+窩	w ɔː˥
+窮	kʰ ʊ˨˩ ŋ
+窿	l ʊ˥ ŋ
+竇	t ɐw˧
+竇	t ɐw˨
+竊	s iː˧ t̚
+立	l aː˨ p̚
+立	l ɐ˨ p̚
+站	ts aː˨ m
+竟	k ɪ˨˥ ŋ
+章	ts œː˥ ŋ
+童	tʰ ʊ˨˩ ŋ
+竭	kʰ iː˧ t̚
+端	t yː˥ n
+競	k ɪ˧ ŋ
+競	k ɪ˨ ŋ
+竹	ts ʊ˥ k̚
+竺	ts ʊ˥ k̚
+笈	kʰ ɐ˥ p̚
+笑	s iːw˧
+笛	t ɛː˨˥ k̚
+笠	l ɐ˥ p̚
+笠	l ɐ˨ p̚
+符	f uː˨˩
+笨	p ɐ˨ n
+笪	t aː˧ t̚
+第	t ɐi˨
+筆	p ɐ˥ t̚
+等	t ɐ˨˥ ŋ
+筋	k ɐ˥ n
+筍	s ɵ˨˥ n
+筒	tʰ ʊ˨˥ ŋ
+答	t aː˧ p̚
+策	tsʰ aː˧ k̚
+筷	f aːj˧
+箇	k ɔː˧
+算	s yː˧ n
+管	k uː˨˥ n
+箭	ts iː˧ n
+箱	s œː˥ ŋ
+節	ts iː˧ t̚
+範	f aː˨ n
+篇	pʰ iː˥ n
+築	ts ʊ˥ k̚
+篡	s aː˧ n
+篤	t ʊ˥ k̚
+篼	t ɐw˥
+簡	k aː˨˥ n
+簽	tsʰ iː˥ m
+簾	l iː˨˥ m
+簾	l iː˨˩ m
+簿	p ow˨˥
+籃	l aː˨˩ m
+籌	tsʰ ɐw˨˩
+籍	ts ɪ˨ k̚
+籠	l ʊ˨˩ ŋ
+籠	l ʊ˨˧ ŋ
+籬	l ej˨˩
+籲	j yː˨
+米	m ɐi˨˧
+籽	ts iː˨˥
+粉	f ɐ˨˥ n
+粒	l ɐ˥ p̚
+粒	n ɐ˥ p̚
+粗	tsʰ ow˥
+粘	n iː˥ m
+粘	n iː˨˩ m
+粘	ts iː˥ m
+粥	ts ʊ˥ k̚
+粵	j yː˨ t̚
+粹	s ɵɥ˨
+精	ts ɛː˥ ŋ
+精	ts ɪ˥ ŋ
+糊	w uː˨˩
+糕	k ow˥
+糖	tʰ ɔː˨˥ ŋ
+糖	tʰ ɔː˨˩ ŋ
+糟	ts ow˥
+糧	l œː˨˩ ŋ
+系	h ɐi˨
+糾	k ɐw˨˥
+紀	k ej˨˥
+約	j œː˧ k̚
+紅	h ʊ˨˩ ŋ
+納	n aː˨ p̚
+紐	n ɐw˨˥
+純	s ɵ˨˩ n
+紗	s aː˥
+紙	ts iː˨˥
+級	kʰ ɐ˥ p̚
+紛	f ɐ˥ n
+素	s ow˧
+紡	f ɔː˨˥ ŋ
+索	s ɔː˧ k̚
+累	l ɵɥ˨
+細	s ɐi˧
+紹	s iːw˨
+終	ts ʊ˥ ŋ
+組	ts ow˨˥
+結	k iː˧ t̚
+絕	ts yː˨ t̚
+絡	l ɔː˧ k̚
+絡	l ɔː˨ k̚
+絮	s ɵɥ˨˧
+統	tʰ ʊ˨˥ ŋ
+絲	s iː˥
+綁	p ɔː˨˥ ŋ
+經	k ɪ˥ ŋ
+綜	ts ʊ˥ ŋ
+綜	ts ʊ˧ ŋ
+綠	l ʊ˨ k̚
+維	w ɐi˨˩
+綯	tʰ ow˨˩
+網	m ɔː˨˧ ŋ
+緊	k ɐ˨˥ n
+緒	s ɵɥ˨˧
+線	s iː˧ n
+緝	tsʰ ɐ˥ p̚
+編	pʰ iː˥ n
+練	l iː˨ n
+緻	ts iː˧
+縣	j yː˨ n
+縫	f ʊ˨˩ ŋ
+縮	s ʊ˥ k̚
+縱	ts ʊ˥ ŋ
+縱	ts ʊ˧ ŋ
+總	ts ʊ˨˥ ŋ
+績	ts ɪ˥ k̚
+繁	f aː˨˩ n
+織	ts ɪ˥ k̚
+繙	f aː˥ n
+繙	f aː˨˩ n
+繚	l iːw˨˩
+繡	s ɐw˧
+繫	h ɐi˨
+繳	k iːw˨˥
+繼	k ɐi˧
+續	ts ʊ˨ k̚
+纏	tsʰ iː˨˩ n
+缺	kʰ yː˧ t̚
+罐	k uː˧ n
+罩	ts aːw˧
+罪	ts ɵɥ˨
+置	ts iː˧
+罰	f ɐ˨ t̚
+署	tsʰ yː˨˧
+罵	m aː˨
+羅	l ɔː˨˩
+羈	k ej˥
+羊	j œː˨˩ ŋ
+美	m ej˨˧
+羣	kʷʰ ɐ˨˩ n
+群	kʷʰ ɐ˨˩ n
+羨	s iː˨ n
+義	j iː˨
+羽	j yː˨˧
+翁	j ʊ˥ ŋ
+習	ts aː˨ p̚
+翠	tsʰ ɵɥ˧
+翡	f ej˨˥
+翹	kʰ iːw˨˩
+翻	f aː˥ n
+翼	j ɪ˨ k̚
+老	l ow˨˧
+考	h aːw˨˥
+者	ts ɛː˨˥
+而	j iː˨˩
+耍	s aː˨˥
+耐	n ɔːj˨˥
+耐	n ɔːj˨
+耳	j iː˨˧
+耶	j ɛː˨˩
+聊	l iːw˨˩
+聖	s ɪ˧ ŋ
+聚	ts ɵɥ˨
+聞	m ɐ˨˥ n
+聞	m ɐ˨˩ n
+聯	l yː˨˥ n
+聯	l yː˨˩ n
+聰	tsʰ ʊ˥ ŋ
+聲	s ɛː˥ ŋ
+聲	s ɪ˥ ŋ
+聴	tʰ ɪ˥ ŋ
+職	ts ɪ˥ k̚
+聼	tʰ ɛː˥ ŋ
+聼	tʰ ɪ˥ ŋ
+聼	tʰ ɪ˧ ŋ
+聽	tʰ ɛː˥ ŋ
+聽	tʰ ɪ˥ ŋ
+聽	tʰ ɪ˧ ŋ
+聾	l ʊ˨˩ ŋ
+肆	s ej˧
+肆	s iː˧
+肇	s iːw˨
+肉	j ʊ˨ k̚
+肌	k ej˥
+肖	tsʰ iːw˧
+肚	tʰ ow˨˧
+肝	k ɔː˥ n
+股	k uː˨˥
+肥	f ej˨˩
+肯	h ɐ˨˥ ŋ
+育	j ʊ˨ k̚
+肺	f ɐi˧
+胃	w ɐi˨
+背	p uːj˧
+背	p uːj˨
+胎	tʰ ɔːj˥
+胖	p uː˨ n
+胞	p aːw˥
+胡	w uː˨˩
+胸	h ʊ˥ ŋ
+能	n ɐ˨˩ ŋ
+脂	ts iː˥
+脅	h iː˧ p̚
+脆	tsʰ ɵɥ˧
+脈	m ɐ˨ k̚
+脊	ts ɛː˧ k̚
+脫	tʰ yː˧ t̚
+脷	l ej˨
+脹	ts œː˧ ŋ
+脾	pʰ ej˨˩
+腍	j ɐ˨ m
+腍	n ɐ˨˩ m
+腍	n ɐ˨˧ m
+腎	s ɐ˨ n
+腐	f uː˨
+腔	h ɔː˥ ŋ
+腦	n ow˨˧
+腩	n aː˨˧ m
+腰	j iːw˥
+腳	k œː˧ k̚
+腸	tsʰ œː˨˥ ŋ
+腸	tsʰ œː˨˩ ŋ
+腹	f ʊ˥ k̚
+腿	tʰ ɵɥ˨˥
+膚	f uː˥
+膜	m ɔː˨˥ k̚
+膜	m ɔː˨ k̚
+膝	s ɐ˥ t̚
+膠	k aːw˥
+膨	pʰ aː˨˩ ŋ
+膩	n ej˨
+膶	j ɵ˨˥ n
+膽	t aː˨˥ m
+臂	p ej˧
+臣	s ɐ˨˥ n
+臣	s ɐ˨˩ n
+臨	l ɐ˨˩ m
+自	ts iː˨
+臭	tsʰ ɐw˧
+至	ts iː˧
+致	ts iː˧
+與	j yː˨˧
+與	j yː˨
+興	h ɪ˥ ŋ
+興	h ɪ˧ ŋ
+舉	k ɵɥ˨˥
+舊	k ɐw˨
+舌	s iː˧ t̚
+舍	s ɛː˧
+舍	s ɛː˨˧
+舐	l aːj˨˥
+舐	s aːj˨˥
+舐	s aːj˨˧
+舒	s yː˥
+舞	m ow˨˧
+航	h ɔː˨˩ ŋ
+般	p uː˥ n
+船	s yː˨˩ n
+艇	tʰ ɛː˨˧ ŋ
+艙	tsʰ ɔː˥ ŋ
+艦	l aː˨ m
+良	l œː˨˩ ŋ
+艱	k aː˥ n
+色	s ɪ˥ k̚
+艷	j iː˨ m
+芋	w uː˨
+芒	m ɔː˥ ŋ
+芒	m ɔː˨˩ ŋ
+芝	ts iː˥
+芥	k aːj˧
+芫	j iː˨˩ m
+芫	j yː˨˩ n
+芬	f ɐ˥ n
+花	f aː˥
+芹	kʰ ɐ˨˥ n
+芹	kʰ ɐ˨˩ n
+若	j œː˨ k̚
+苦	f uː˨˥
+英	j ɪ˥ ŋ
+茂	m ɐw˨
+范	f aː˨ n
+茄	kʰ ɛː˨˥
+茜	s ɐi˥
+茜	s iː˨ n
+茶	tsʰ aː˨˩
+草	tsʰ ow˨˥
+荊	k ɪ˥ ŋ
+荒	f ɔː˥ ŋ
+荔	l ɐi˨
+荷	h ɔː˨˩
+荷	h ɔː˨
+莊	ts ɔː˥ ŋ
+莓	m uːj˨˥
+莓	m uːj˨˩
+莞	k uː˨˥ n
+莫	m ɔː˨˥ k̚
+莫	m ɔː˨ k̚
+菌	kʷʰ ɐ˨˥ n
+菜	tsʰ ɔːj˧
+菠	p ɔː˥
+華	w aː˨˩
+菲	f ej˥
+萬	m aː˨ n
+落	l ɔː˥ k̚
+落	l ɔː˨ k̚
+葉	j iː˨ p̚
+著	ts œː˧ k̚
+著	ts œː˨ k̚
+著	ts yː˧
+葡	pʰ ow˨˩
+董	t ʊ˨˥ ŋ
+葬	ts ɔː˧ ŋ
+蒙	m ʊ˨˩ ŋ
+蒞	l ej˨˩
+蒞	l ej˨
+蒲	pʰ ow˨˩
+蒸	ts ɪ˥ ŋ
+蓆	ts ɛː˨ k̚
+蓆	ts ɪ˨ k̚
+蓋	k ɔːj˧
+蓋	kʰ ɔːj˧
+蓬	f ʊ˨˩ ŋ
+蓬	pʰ ʊ˨˩ ŋ
+蔥	tsʰ ʊ˥ ŋ
+蔬	s ɔː˥
+蔵	tsʰ ɔː˨˩ ŋ
+蔻	kʰ ɐw˧
+蕃	f aː˥ n
+蕩	t ɔː˨ ŋ
+蕾	l ɵɥ˨˩
+薄	p ɔː˨ k̚
+薑	k œː˥ ŋ
+薦	ts iː˧ n
+薩	s aː˧ t̚
+薪	s ɐ˥ n
+薯	s yː˨˩
+藉	ts ɛː˧
+藉	ts ɪ˨ k̚
+藍	l aː˨˩ m
+藏	tsʰ ɔː˨˩ ŋ
+藏	ts ɔː˨ ŋ
+藝	ŋ ɐi˨
+藥	j œː˨ k̚
+藩	f aː˨˩ n
+藺	l ɵ˨ n
+蘋	pʰ ɪ˨˩ ŋ
+蘭	l aː˥ n
+蘭	l aː˨˩ n
+蘿	l ɔː˨˩
+虎	f uː˨˥
+處	tsʰ yː˨˥
+處	tsʰ yː˧
+處	tsʰ yː˨˧
+處	s yː˧
+虛	h ɵɥ˥
+號	h ow˨˩
+號	h ow˨
+虧	kʷʰ ɐi˥
+虹	h ʊ˨˩ ŋ
+蚊	m ɐ˥ n
+蛇	s ɛː˨˥
+蛇	s ɛː˨˩
+蛋	t aː˨˥ n
+蛋	t aː˨ n
+蛤	k aː˧ p̚
+蛤	k ɐ˧ p̚
+蛤	h aː˥
+蜂	f ʊ˥ ŋ
+蜜	m ɐ˨ t̚
+蜥	s ɪ˥ k̚
+蜴	j ɪ˨ k̚
+蝕	s ɪ˨ k̚
+蝕	s iː˨ t̚
+蝦	h aː˥
+融	j ʊ˨˩ ŋ
+蟆	m aː˨˩
+蟆	m ow˥
+蟬	s iː˨˩ m
+蟲	tsʰ ʊ˨˩ ŋ
+蟹	h aːj˨˧
+蟻	ŋ ɐi˨˧
+蠟	l aː˨ p̚
+蠢	tsʰ ɵ˨˥ n
+蠱	k uː˨˥
+蠶	tsʰ aː˨˩ m
+蠻	m aː˨˩ n
+血	h yː˧ t̚
+衆	ts ʊ˧ ŋ
+行	h aː˨˩ ŋ
+行	h ɐ˨˩ ŋ
+行	h ɐ˨ ŋ
+行	h ɔː˨˥ ŋ
+行	h ɔː˨˩ ŋ
+術	s ɵ˨ t̚
+街	k aːj˥
+衛	w ɐi˨
+衝	tsʰ ʊ˥ ŋ
+衡	h ɐ˨˩ ŋ
+衣	j iː˥
+表	p iːw˨˥
+衫	s aː˥ m
+衰	s ɵɥ˥
+衹	kʰ ej˨˩
+衹	ts iː˨˥
+袁	j yː˨˩ n
+袋	t ɔːj˨
+被	p ej˨
+被	pʰ ej˨˧
+裁	tsʰ ɔːj˨˩
+裂	l iː˨ t̚
+裏	l ɵɥ˨˧
+裔	j ɵɥ˨
+裙	kʷʰ ɐ˨˩ n
+補	p ow˨˥
+裝	ts ɔː˥ ŋ
+裡	l ɵɥ˨˧
+裳	s œː˨˩ ŋ
+裸	l ɔː˨˥
+製	ts ɐi˧
+複	f ʊ˥ k̚
+褦	l ɛː˨˧
+褦	n aːj˨
+褦	n ɐ˧ ŋ
+褦	n ɔːj˨
+褲	f uː˧
+襪	m ɐ˨ t̚
+襯	tsʰ ɐ˧ n
+襲	ts aː˨ p̚
+西	s ɐi˥
+要	j iːw˥
+要	j iːw˧
+覆	f ʊ˥ k̚
+見	k iː˧ n
+規	kʷʰ ɐi˥
+視	s iː˨
+親	tsʰ ɐ˥ n
+覺	k aːw˧
+覺	k ɔː˧ k̚
+覽	l aː˨˧ m
+觀	k uː˥ n
+角	k ɔː˨˥ k̚
+角	k ɔː˧ k̚
+解	k aːj˨˥
+觸	ts ʊ˥ k̚
+言	j iː˨˩ n
+訂	t ɛː˨ ŋ
+訂	t ɪ˧ ŋ
+訂	t ɪ˨ ŋ
+計	k ɐi˨˥
+計	k ɐi˧
+訊	s ɵ˧ n
+討	tʰ ow˨˥
+訓	f ɐ˧ n
+記	k ej˧
+訝	ŋ aː˨˧
+訝	ŋ aː˨
+訟	ts ʊ˨ ŋ
+訣	kʰ yː˧ t̚
+訪	f ɔː˨˥ ŋ
+設	tsʰ iː˧ t̚
+許	h ɵɥ˨˥
+訴	s ow˧
+註	ts yː˧
+詏	aːw˨˥
+詏	aːw˧
+詐	ts aː˧
+評	pʰ ɪ˨˩ ŋ
+詞	tsʰ iː˨˩
+詢	s ɵ˥ n
+試	s iː˧
+試	s iː˨˧
+詩	s iː˥
+話	w aː˨˥
+話	w aː˨˧
+話	w aː˨
+該	k ɔːj˥
+詳	tsʰ œː˨˩ ŋ
+誃	tsʰ iː˨˥
+誇	kʷʰ aː˥
+誌	ts iː˧
+認	j ɪ˨ ŋ
+誓	s ɐi˨
+誕	t aː˧ n
+語	j yː˨˧
+誠	s ɪ˨˩ ŋ
+誤	ŋ̍˨
+誦	ts ʊ˨ ŋ
+說	s ɵɥ˧
+說	s yː˧ t̚
+説	s ɵɥ˧
+説	s yː˧ t̚
+誰	s ɵɥ˨˥
+誰	s ɵɥ˨˩
+課	f ɔː˧
+調	t iːw˨
+調	tʰ iːw˨˩
+談	tʰ aː˨˩ m
+請	tsʰ ɛː˨˥ ŋ
+請	tsʰ ɪ˨˥ ŋ
+諒	l œː˨ ŋ
+論	l ɵ˨˩ n
+論	l ɵ˨ n
+諗	n ɐ˨˥ m
+諜	t iː˨ p̚
+諧	h aːj˨˩
+諮	ts iː˥
+諷	f ʊ˧ ŋ
+諸	ts yː˥
+諾	n ɔː˨ k̚
+謀	m ɐw˨˩
+謂	w ɐi˨
+謎	m ɐi˨˩
+謙	h iː˥ m
+講	k ɔː˨˥ ŋ
+謝	ts ɛː˨
+謬	m ɐw˨
+謹	k ɐ˨˥ n
+證	ts ɪ˧ ŋ
+識	s ɪ˥ k̚
+識	ts iː˧
+譜	pʰ ow˨˥
+警	k ɪ˨˥ ŋ
+譯	j ɪ˨ k̚
+議	j iː˨˧
+護	w uː˨
+譽	j yː˨
+讀	t ʊ˨ k̚
+變	p iː˧ n
+讑	j iːw˨
+讚	ts aː˧ n
+谷	k ʊ˥ k̚
+豆	t ɐw˨˥
+豆	t ɐw˨
+豈	h ej˨˥
+豎	s yː˨
+豐	f ʊ˥ ŋ
+象	ts œː˨ ŋ
+豪	h ow˨˩
+豬	ts yː˥
+貌	m aːw˨
+貓	m aːw˥
+貝	p uːj˧
+負	f uː˨
+財	tsʰ ɔːj˨˩
+貢	k ʊ˧ ŋ
+貧	pʰ ɐ˨˩ n
+貨	f ɔː˧
+貪	tʰ aː˥ m
+貫	k uː˧ n
+責	ts aː˧ k̚
+貴	kʷ ɐi˧
+貶	p iː˨˥ n
+買	m aːj˨˧
+貸	tʰ aːj˧
+費	f ɐi˧
+貼	tʰ iː˧ p̚
+貿	m ɐw˨
+賀	h ɔː˨
+資	ts iː˥
+賊	tsʰ aː˨ k̚
+賓	p ɐ˥ n
+賞	s œː˨˥ ŋ
+賠	pʰ uːj˨˩
+賢	j iː˨˩ n
+賣	m aːj˨˥
+賣	m aːj˨
+賤	ts iː˨ n
+質	ts ɐ˥ t̚
+質	ts iː˧
+賬	ts œː˧ ŋ
+賭	t ow˨˥
+賴	l aːj˨
+賺	ts aː˨ n
+購	k ɐw˧
+購	kʰ ɐw˧
+賽	tsʰ ɔːj˧
+贊	ts aː˧ n
+贏	j ɛː˨˩ ŋ
+贛	k ɐ˧ m
+赤	tsʰ ɛː˧ k̚
+走	ts ɐw˨˥
+起	h ej˨˥
+起	h ej˧
+趁	tsʰ ɐ˧ n
+超	tsʰ iːw˥
+越	j yː˨ t̚
+趌	k ɐ˨ t̚
+趕	k ɔː˨˥ n
+趙	ts iːw˨
+趣	tsʰ ɵɥ˧
+足	ts ʊ˥ k̚
+趷	k ɐ˨ t̚
+跌	t iː˧ t̚
+跑	pʰ aːw˨˥
+跛	p ɐi˥
+距	kʰ ɵɥ˨˧
+跟	k ɐ˥ n
+跡	ts ɪ˥ k̚
+跨	kʷʰ aː˥
+跪	kʷ ɐi˨
+路	l ow˧
+路	l ow˨
+跳	tʰ iːw˧
+踎	m ɐw˥
+踏	t aː˨ p̚
+踐	tsʰ iː˨˥ n
+踐	tsʰ iː˨˧ n
+踢	tʰ ɛː˧ k̚
+踩	tsʰ aːj˨˥
+踴	j ʊ˨˥ ŋ
+蹤	ts ʊ˥ ŋ
+躉	t ɐ˨˥ n
+躋	ts ɐi˥
+躍	j œː˨ k̚
+躝	l aː˥ n
+躝	l aː˨˩ n
+身	s ɐ˥ n
+車	tsʰ ɛː˥
+軌	kʷ ɐi˨˥
+軍	kʷ ɐ˥ n
+軟	j yː˨˧ n
+較	k aːw˧
+載	ts ɔːj˨˥
+載	ts ɔːj˧
+輔	f uː˨
+輕	h ɛː˥ ŋ
+輕	h ɪ˥ ŋ
+輝	f ɐi˥
+輩	p uːj˧
+輪	l ɵ˨˩ n
+輯	tsʰ ɐ˥ p̚
+輸	s yː˥
+輿	j yː˨˩
+轄	h ɐ˨ t̚
+轆	l ʊ˥ k̚
+轉	ts yː˨˥ n
+轉	ts yː˧ n
+辛	s ɐ˥ n
+辜	k uː˥
+辣	l aː˨ t̚
+辦	p aː˨ n
+辨	p iː˨ n
+辭	tsʰ iː˨˩
+辯	p iː˨ n
+辰	s ɐ˨˩ n
+辱	j ʊ˨ k̚
+農	n ʊ˨˩ ŋ
+迅	s ɵ˧ n
+迎	j ɪ˨˩ ŋ
+近	k ɐ˨ n
+近	kʰ ɐ˨˧ n
+返	f aː˥ n
+返	f aː˨˥ n
+迪	t ɪ˨ k̚
+迫	p ɪ˥ k̚
+述	s ɵ˨ t̚
+迴	w uːj˨˩
+迷	m ɐi˨˩
+追	ts ɵɥ˥
+退	tʰ ɵɥ˧
+送	s ʊ˧ ŋ
+逃	tʰ ow˨˩
+逍	s iːw˥
+透	tʰ ɐw˧
+逐	ts ʊ˨ k̚
+途	tʰ ow˨˩
+逗	t ɐw˨
+通	tʰ ʊ˥ ŋ
+速	tsʰ ʊ˥ k̚
+造	tsʰ ow˧
+造	tsʰ ow˨˧
+造	ts ow˨
+逢	f ʊ˨˩ ŋ
+連	l iː˨˩ n
+週	ts ɐw˥
+進	ts ɵ˧ n
+逳	j ʊ˥ k̚
+逼	p ɪ˥ k̚
+逾	j yː˨
+遇	j yː˨
+遊	j ɐw˨˩
+運	w ɐ˨ n
+遍	pʰ iː˧ n
+過	kʷ ɔː˧
+道	t ow˧
+道	t ow˨
+達	t aː˨ t̚
+違	w ɐi˨˩
+遙	j iːw˨˩
+遞	t ɐi˨
+遠	j yː˨˧ n
+適	s ɪ˥ k̚
+遮	ts ɛː˥
+遲	tsʰ iː˨˩
+遷	tsʰ iː˥ n
+選	s yː˨˥ n
+遼	l iːw˨˩
+避	p ej˨
+邀	j iːw˥
+還	w aː˨˩ n
+邉	p iː˥ n
+邊	p iː˥ n
+邊	p iː˨ n
+邏	l ɔː˨˩
+邑	j ɐ˥ p̚
+邢	j ɪ˨˩ ŋ
+郎	l ɔː˨˩ ŋ
+部	p ow˨
+郭	kʷ ɔː˧ k̚
+郵	j ɐw˨˩
+都	t ow˥
+鄉	h œː˥ ŋ
+鄧	t ɐ˨ ŋ
+鄭	ts ɛː˨ ŋ
+鄰	l ɵ˨˩ n
+鄱	pʰ ɔː˨˩
+配	pʰ uːj˧
+酒	ts ɐw˨˥
+酬	tsʰ ɐw˨˩
+酷	h ʊ˨ k̚
+酸	s yː˥ n
+醉	ts ɵɥ˧
+醋	tsʰ ow˧
+醒	s ɛː˨˥ ŋ
+醒	s ɪ˨˥ ŋ
+醙	s ɐw˥
+醙	s ɐw˨˥
+醜	tsʰ ɐw˨˥
+醫	j iː˥
+醬	ts œː˧ ŋ
+釁	j ɐ˨ n
+釋	s ɪ˥ k̚
+里	l ej˨˧
+重	tsʰ ʊ˨˩ ŋ
+重	tsʰ ʊ˨˧ ŋ
+重	ts ʊ˨ ŋ
+野	j ɛː˨˧
+量	l œː˨˩ ŋ
+量	l œː˨ ŋ
+金	k ɐ˥ m
+釘	t ɛː˥ ŋ
+釘	t ɪ˥ ŋ
+釜	f uː˨˥
+針	ts ɐ˥ m
+鈍	t ɵ˨ n
+鈔	tsʰ aːw˥
+鈴	l ɪ˨˩ ŋ
+鉸	k aːw˨˥
+鉸	k aːw˧
+銀	ŋ ɐ˨˥ n
+銀	ŋ ɐ˨˩ n
+銘	m ɪ˨˧ ŋ
+銬	kʰ aːw˧
+鋒	f ʊ˥ ŋ
+鋪	pʰ ow˥
+錄	l ʊ˨ k̚
+錢	tsʰ iː˨˥ n
+錢	tsʰ iː˨˩ n
+錦	k ɐ˨˥ m
+錫	s ɛː˧ k̚
+錫	s ɛː˨ k̚
+錯	tsʰ ɔː˧
+錶	p iːw˥
+鍊	l iː˨˥ n
+鍊	l iː˨ n
+鍵	k iː˨ n
+鍾	ts ʊ˥ ŋ
+鎅	k aːj˧
+鎖	s ɔː˨˥
+鎮	ts ɐ˧ n
+鏈	l iː˨˥ n
+鏈	l iː˨ n
+鏟	tsʰ aː˨˥ n
+鏡	k ɛː˨˥ ŋ
+鏡	k ɛː˧ ŋ
+鐘	ts ʊ˥ ŋ
+鐵	tʰ iː˧ t̚
+鑊	w ɔː˨ k̚
+鑽	ts yː˧ n
+長	tsʰ œː˨˩ ŋ
+長	ts œː˨˥ ŋ
+門	m uː˨˥ n
+門	m uː˨˩ n
+閂	s aː˥ n
+閃	s iː˨˥ m
+閉	p ɐi˧
+開	h ɔːj˥
+閒	h aː˨˩ n
+間	k aː˥ n
+間	k aː˧ n
+閘	ts aː˨ p̚
+閣	k ɔː˧ k̚
+閩	m ɐ˨˧ n
+閪	h ɐi˥
+閱	j yː˨ t̚
+闆	p aː˨˥ n
+闊	f uː˧ t̚
+闔	h ɐ˨ p̚
+關	kʷ aː˥ n
+阪	p aː˨˥ n
+阱	ts ɛː˨˥ ŋ
+阱	ts ɛː˨ ŋ
+阱	ts ɪ˨ ŋ
+防	f ɔː˨˩ ŋ
+阻	ts ɔː˨˥
+阿	aː˧
+阿	ɔː˥
+陀	tʰ ɔː˨˩
+附	f uː˨
+陌	m ɐ˨ k̚
+降	k ɔː˧ ŋ
+降	h ɔː˨˩ ŋ
+限	h aː˨ n
+院	j yː˨˥ n
+陣	ts ɐ˨˥ n
+陣	ts ɐ˨ n
+除	tsʰ ɵɥ˨˩
+陪	pʰ uːj˨˩
+陰	j ɐ˥ m
+陳	tsʰ ɐ˨˩ n
+陶	tʰ ow˨˩
+陷	h ɐ˨ m
+陸	l ʊ˨ k̚
+陽	j œː˨˩ ŋ
+隆	l ʊ˨˩ ŋ
+隊	t ɵɥ˨˥
+隊	t ɵɥ˨
+階	k aːj˥
+隔	k aː˧ k̚
+隕	w ɐ˨˧ n
+際	ts ɐi˧
+隧	s ɵɥ˨
+隨	tsʰ ɵɥ˨˩
+險	h iː˨˥ m
+隱	j ɐ˨˥ n
+隻	ts ɛː˧ k̚
+雁	ŋ aː˨ n
+雄	h ʊ˨˩ ŋ
+雅	ŋ aː˥
+雅	ŋ aː˨˧
+集	ts aː˨ p̚
+雕	t iːw˥
+雖	s ɵɥ˥
+雙	s œː˥ ŋ
+雛	tsʰ ɔː˥
+雛	tsʰ ɔː˨˩
+雜	ts aː˨ p̚
+雞	k ɐi˥
+離	l ɛː˨˩
+離	l ej˨˩
+難	n aː˨˩ n
+難	n aː˨ n
+雨	j yː˨˧
+雪	s yː˧ t̚
+雲	w ɐ˨˩ n
+零	l ɪ˨˩ ŋ
+雷	l ɵɥ˨˩
+電	t iː˨ n
+需	s ɵɥ˥
+震	ts ɐ˧ n
+霉	m uːj˨˩
+露	l ow˨
+霸	p aː˧
+靈	l ɛː˨˩ ŋ
+靈	l ɪ˨˩ ŋ
+青	tsʰ ɛː˥ ŋ
+青	tsʰ ɪ˥ ŋ
+靚	l ɛː˧ ŋ
+靜	ts ɪ˨˥ ŋ
+靜	ts ɪ˨ ŋ
+非	f ej˥
+靠	kʰ aːw˧
+面	m iː˨˥ n
+面	m iː˨ n
+革	k aː˧ k̚
+靶	p aː˨˥
+鞋	h aːj˨˩
+韓	h ɔː˨˩ n
+韞	w ɐ˧ n
+韮	k ɐw˨˥
+音	j ɐ˥ m
+韻	w ɐ˨˧ n
+韻	w ɐ˨ n
+響	h œː˨˥ ŋ
+頁	j iː˨ p̚
+頂	t ɛː˨˥ ŋ
+頂	t ɪ˨˥ ŋ
+項	h ɔː˨ ŋ
+順	s ɵ˨ n
+須	s ɵɥ˥
+預	j yː˨
+頓	t ɵ˨ n
+頗	pʰ ɔː˨˥
+領	l ɛː˨˥ ŋ
+領	l ɛː˨˧ ŋ
+領	l ɪ˨˧ ŋ
+頡	kʰ iː˧ t̚
+頭	tʰ ɐw˨˥
+頭	tʰ ɐw˨˩
+頸	k ɛː˨˥ ŋ
+頹	tʰ ɵɥ˨˩
+頻	pʰ ɐ˨˩ n
+顆	f ɔː˨˥
+題	tʰ ɐi˨˩
+額	ŋ aː˨˥ k̚
+額	ŋ aː˨ k̚
+顎	ŋ ɔː˨ k̚
+顏	ŋ aː˨˩ n
+願	j yː˨ n
+類	l ɵɥ˨
+顧	k uː˧
+顯	h iː˨˥ n
+風	f ʊ˥ ŋ
+颱	tʰ ɔːj˨˩
+飆	p iːw˥
+飛	f ej˥
+食	s ɪ˨ k̚
+飯	f aː˨ n
+飲	j ɐ˨˥ m
+飽	p aːw˨˥
+飾	s ɪ˥ k̚
+餃	k aːw˨˥
+餅	p ɛː˨˥ ŋ
+養	j œː˨˧ ŋ
+餐	tsʰ aː˥ n
+餓	ŋ ɔː˨
+餘	j yː˨˩
+館	k uː˨˥ n
+餵	w ɐi˧
+餸	s ʊ˧ ŋ
+饋	kʷ ɐi˨
+饑	k ej˥
+首	s ɐw˨˥
+香	h œː˥ ŋ
+馨	h ɪ˥ ŋ
+馬	m aː˨˧
+馳	tsʰ iː˨˩
+駁	p ɔː˧ k̚
+駕	k aː˧
+駛	s ɐi˨˥
+駝	tʰ ɔː˨˩
+騎	kʰ ɛː˨˩
+騙	pʰ iː˧ n
+騮	l ɐw˥
+騮	l ɐw˨˩
+騰	tʰ ɐ˨˩ ŋ
+騷	s ow˥
+驅	kʰ ɵɥ˥
+驕	k iːw˥
+驗	j iː˨ m
+驚	k ɛː˥ ŋ
+驚	k ɪ˥ ŋ
+驟	ts aːw˨
+驟	ts ɐw˨
+骨	kʷ ɐ˥ t̚
+骰	s ɪ˥ k̚
+髀	p ej˨˥
+體	tʰ ɐi˨˥
+高	k ow˥
+髮	f aː˧ t̚
+鬆	s ʊ˥ ŋ
+鬥	t ɐw˧
+鬧	n aːw˨
+鬱	w ɐ˥ t̚
+鬼	kʷ ɐi˨˥
+魂	w ɐ˨˩ n
+魅	m ej˨
+魔	m ɔː˥
+魚	j yː˨˥
+魚	j yː˨˩
+魯	l ow˨˧
+鮮	s iː˥ n
+鯇	w aː˨˧ n
+鳥	n iːw˨˧
+鳩	k ɐw˥
+鳳	f ʊ˨ ŋ
+鳴	m ɪ˨˩ ŋ
+鴨	aː˨˥ p̚
+鴨	aː˧ p̚
+鵝	ŋ ɔː˨˥
+鵝	ŋ ɔː˨˩
+鵡	m ow˨˧
+鶴	h ɔː˨ k̚
+鷄	k ɐi˥
+鸚	j ɪ˥ ŋ
+鹹	h aː˨˩ m
+鹽	j iː˨˩ m
+麗	l ɐi˨
+麥	m ɐ˨ k̚
+麪	m iː˨ n
+麵	m iː˨ n
+麻	m aː˨˥
+麻	m aː˨˩
+黃	w ɔː˨˩ ŋ
+黎	l ɐi˨˩
+黐	tsʰ iː˥
+黑	h ɐ˥ k̚
+默	m ɐ˨ k̚
+點	t iː˨˥ m
+黨	t ɔː˨˥ ŋ
+鼎	t ɪ˨˥ ŋ
+鼓	k uː˨˥
+鼠	s yː˨˥
+鼻	p ej˨
+齊	tsʰ ɐi˨˩
+齋	ts aːj˥
+齒	tsʰ iː˨˥
+齕	k ɐ˨ t̚
+齕	h ɐ˨ t̚
+齕	ŋ aː˨ t̚
+齡	l ɪ˨˩ ŋ
+齣	tsʰ ɵ˥ t̚
+齮	k iː˥
+齮	j iː˨˥
+齮	ŋ ɐi˨˧
+龍	l ʊ˨˩ ŋ
+龐	pʰ ɔː˨˩ ŋ
+龜	kʷ ɐi˥
+咯	l ɔː˧
+咯	l ɔː˧ k̚
